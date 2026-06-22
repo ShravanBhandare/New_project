@@ -1,0 +1,1225 @@
+company_id,year,field,issue,severity
+ABB,TTM,year,Unparseable year label: TTM,CRITICAL
+ADANIENSOL,TTM,year,Unparseable year label: TTM,CRITICAL
+ADANIENT,TTM,year,Unparseable year label: TTM,CRITICAL
+ADANIGREEN,TTM,year,Unparseable year label: TTM,CRITICAL
+ADANIPORTS,TTM,year,Unparseable year label: TTM,CRITICAL
+ADANIPORTS,2013-03,company_id+year,Duplicate entry found in profitandloss (DQ-02). Keeping last occurrence.,WARNING
+ADANIPORTS,2014-03,company_id+year,Duplicate entry found in profitandloss (DQ-02). Keeping last occurrence.,WARNING
+ADANIPORTS,2015-03,company_id+year,Duplicate entry found in profitandloss (DQ-02). Keeping last occurrence.,WARNING
+ADANIPORTS,2016-03,company_id+year,Duplicate entry found in profitandloss (DQ-02). Keeping last occurrence.,WARNING
+ADANIPORTS,2017-03,company_id+year,Duplicate entry found in profitandloss (DQ-02). Keeping last occurrence.,WARNING
+ADANIPORTS,2018-03,company_id+year,Duplicate entry found in profitandloss (DQ-02). Keeping last occurrence.,WARNING
+ADANIPORTS,2019-03,company_id+year,Duplicate entry found in profitandloss (DQ-02). Keeping last occurrence.,WARNING
+ADANIPORTS,2020-03,company_id+year,Duplicate entry found in profitandloss (DQ-02). Keeping last occurrence.,WARNING
+ADANIPORTS,2021-03,company_id+year,Duplicate entry found in profitandloss (DQ-02). Keeping last occurrence.,WARNING
+ADANIPORTS,2022-03,company_id+year,Duplicate entry found in profitandloss (DQ-02). Keeping last occurrence.,WARNING
+ADANIPORTS,2023-03,company_id+year,Duplicate entry found in profitandloss (DQ-02). Keeping last occurrence.,WARNING
+ADANIPORTS,2024-03,company_id+year,Duplicate entry found in profitandloss (DQ-02). Keeping last occurrence.,WARNING
+ADANIPORTS,TTM,year,Unparseable year label: TTM,CRITICAL
+ADANIPOWER,TTM,year,Unparseable year label: TTM,CRITICAL
+AMBUJACEM,Mar 2023 15,year,Unparseable year label: Mar 2023 15,CRITICAL
+AMBUJACEM,TTM,year,Unparseable year label: TTM,CRITICAL
+APOLLOHOSP,TTM,year,Unparseable year label: TTM,CRITICAL
+ASIANPAINT,TTM,year,Unparseable year label: TTM,CRITICAL
+ATGL,TTM,year,Unparseable year label: TTM,CRITICAL
+BAJAJ-AUTO,TTM,year,Unparseable year label: TTM,CRITICAL
+AXISBANK,TTM,year,Unparseable year label: TTM,CRITICAL
+BAJAJFINSV,TTM,year,Unparseable year label: TTM,CRITICAL
+BAJAJHLDNG,TTM,year,Unparseable year label: TTM,CRITICAL
+BAJFINANCE,TTM,year,Unparseable year label: TTM,CRITICAL
+BANKBARODA,TTM,year,Unparseable year label: TTM,CRITICAL
+BHARTIARTL,TTM,year,Unparseable year label: TTM,CRITICAL
+BEL,TTM,year,Unparseable year label: TTM,CRITICAL
+BHEL,TTM,year,Unparseable year label: TTM,CRITICAL
+BOSCHLTD,TTM,year,Unparseable year label: TTM,CRITICAL
+BPCL,TTM,year,Unparseable year label: TTM,CRITICAL
+BRITANNIA,TTM,year,Unparseable year label: TTM,CRITICAL
+CANBK,TTM,year,Unparseable year label: TTM,CRITICAL
+CHOLAFIN,TTM,year,Unparseable year label: TTM,CRITICAL
+CIPLA,TTM,year,Unparseable year label: TTM,CRITICAL
+COALINDIA,TTM,year,Unparseable year label: TTM,CRITICAL
+DABUR,TTM,year,Unparseable year label: TTM,CRITICAL
+DIVISLAB,TTM,year,Unparseable year label: TTM,CRITICAL
+DLF,TTM,year,Unparseable year label: TTM,CRITICAL
+DMART,TTM,year,Unparseable year label: TTM,CRITICAL
+DRREDDY,TTM,year,Unparseable year label: TTM,CRITICAL
+EICHERMOT,TTM,year,Unparseable year label: TTM,CRITICAL
+GAIL,TTM,year,Unparseable year label: TTM,CRITICAL
+GODREJCP,TTM,year,Unparseable year label: TTM,CRITICAL
+GRASIM,TTM,year,Unparseable year label: TTM,CRITICAL
+HAL,TTM,year,Unparseable year label: TTM,CRITICAL
+HAVELLS,TTM,year,Unparseable year label: TTM,CRITICAL
+HCLTECH,Mar 2016 9m,year,Unparseable year label: Mar 2016 9m,CRITICAL
+HCLTECH,TTM,year,Unparseable year label: TTM,CRITICAL
+HDFCBANK,TTM,year,Unparseable year label: TTM,CRITICAL
+HDFCLIFE,TTM,year,Unparseable year label: TTM,CRITICAL
+HEROMOTOCO,TTM,year,Unparseable year label: TTM,CRITICAL
+HINDALCO,TTM,year,Unparseable year label: TTM,CRITICAL
+HINDUNILVR,TTM,year,Unparseable year label: TTM,CRITICAL
+ICICIBANK,TTM,year,Unparseable year label: TTM,CRITICAL
+ICICIGI,TTM,year,Unparseable year label: TTM,CRITICAL
+ICICIPRULI,TTM,year,Unparseable year label: TTM,CRITICAL
+INDUSINDBK,TTM,year,Unparseable year label: TTM,CRITICAL
+INFY,TTM,year,Unparseable year label: TTM,CRITICAL
+IOC,TTM,year,Unparseable year label: TTM,CRITICAL
+IRCTC,TTM,year,Unparseable year label: TTM,CRITICAL
+IRFC,TTM,year,Unparseable year label: TTM,CRITICAL
+ITC,TTM,year,Unparseable year label: TTM,CRITICAL
+JINDALSTEL,TTM,year,Unparseable year label: TTM,CRITICAL
+JIOFIN,TTM,year,Unparseable year label: TTM,CRITICAL
+JSWENERGY,TTM,year,Unparseable year label: TTM,CRITICAL
+JSWSTEEL,TTM,year,Unparseable year label: TTM,CRITICAL
+KOTAKBANK,TTM,year,Unparseable year label: TTM,CRITICAL
+LICI,TTM,year,Unparseable year label: TTM,CRITICAL
+LODHA,TTM,year,Unparseable year label: TTM,CRITICAL
+LT,TTM,year,Unparseable year label: TTM,CRITICAL
+LTIM,TTM,year,Unparseable year label: TTM,CRITICAL
+M&M,TTM,year,Unparseable year label: TTM,CRITICAL
+MARUTI,TTM,year,Unparseable year label: TTM,CRITICAL
+MOTHERSON,TTM,year,Unparseable year label: TTM,CRITICAL
+NAUKRI,TTM,year,Unparseable year label: TTM,CRITICAL
+NESTLEIND,TTM,year,Unparseable year label: TTM,CRITICAL
+NHPC,TTM,year,Unparseable year label: TTM,CRITICAL
+NTPC,TTM,year,Unparseable year label: TTM,CRITICAL
+ONGC,TTM,year,Unparseable year label: TTM,CRITICAL
+PFC,TTM,year,Unparseable year label: TTM,CRITICAL
+PIDILITIND,TTM,year,Unparseable year label: TTM,CRITICAL
+PNB,TTM,year,Unparseable year label: TTM,CRITICAL
+POWERGRID,TTM,year,Unparseable year label: TTM,CRITICAL
+RECLTD,TTM,year,Unparseable year label: TTM,CRITICAL
+RELIANCE,TTM,year,Unparseable year label: TTM,CRITICAL
+SBILIFE,TTM,year,Unparseable year label: TTM,CRITICAL
+SBIN,TTM,year,Unparseable year label: TTM,CRITICAL
+SHREECEM,Mar 2016 9m,year,Unparseable year label: Mar 2016 9m,CRITICAL
+SHREECEM,TTM,year,Unparseable year label: TTM,CRITICAL
+SHRIRAMFIN,TTM,year,Unparseable year label: TTM,CRITICAL
+SUNPHARMA,TTM,year,Unparseable year label: TTM,CRITICAL
+TATACONSUM,TTM,year,Unparseable year label: TTM,CRITICAL
+TATAMOTORS,TTM,year,Unparseable year label: TTM,CRITICAL
+TATAPOWER,TTM,year,Unparseable year label: TTM,CRITICAL
+TATASTEEL,TTM,year,Unparseable year label: TTM,CRITICAL
+TCS,TTM,year,Unparseable year label: TTM,CRITICAL
+TECHM,TTM,year,Unparseable year label: TTM,CRITICAL
+TITAN,TTM,year,Unparseable year label: TTM,CRITICAL
+TORNTPHARM,TTM,year,Unparseable year label: TTM,CRITICAL
+TRENT,TTM,year,Unparseable year label: TTM,CRITICAL
+TVSMOTOR,TTM,year,Unparseable year label: TTM,CRITICAL
+ULTRACEMCO,Mar 2013,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2014,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2015,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2016,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2017,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2018,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2019,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2020,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2021,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2022,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2023,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2024,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,TTM,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+UNIONBANK,Mar 2013,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2014,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2015,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2016,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2017,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2018,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2019,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2020,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2021,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2022,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2023,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2024,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,TTM,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNITDSPR,Mar 2013,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,Mar 2014,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,Mar 2015,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,Mar 2016,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,Mar 2017,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,Mar 2018,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,Mar 2019,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,Mar 2020,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,Mar 2021,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,Mar 2022,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,Mar 2023,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,Mar 2024,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,TTM,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+VBL,Dec 2012,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VBL,Dec 2013,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VBL,Dec 2014,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VBL,Dec 2015,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VBL,Dec 2016,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VBL,Dec 2017,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VBL,Dec 2018,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VBL,Dec 2019,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VBL,Dec 2020,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VBL,Dec 2021,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VBL,Dec 2022,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VBL,Dec 2023,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VBL,TTM,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VEDL,Mar 2013,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,Mar 2014,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,Mar 2015,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,Mar 2016,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,Mar 2017,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,Mar 2018,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,Mar 2019,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,Mar 2020,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,Mar 2021,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,Mar 2022,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,Mar 2023,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,Mar 2024,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,TTM,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+WIPRO,Mar 2013,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,Mar 2014,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,Mar 2015,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,Mar 2016,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,Mar 2017,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,Mar 2018,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,Mar 2019,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,Mar 2020,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,Mar 2021,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,Mar 2022,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,Mar 2023,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,Mar 2024,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,TTM,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+ZOMATO,Mar 2018,company_id,Foreign Key violation: ZOMATO not in companies master,CRITICAL
+ZOMATO,Mar 2019,company_id,Foreign Key violation: ZOMATO not in companies master,CRITICAL
+ZOMATO,Mar 2020,company_id,Foreign Key violation: ZOMATO not in companies master,CRITICAL
+ZOMATO,Mar 2021,company_id,Foreign Key violation: ZOMATO not in companies master,CRITICAL
+ZOMATO,Mar 2022,company_id,Foreign Key violation: ZOMATO not in companies master,CRITICAL
+ZOMATO,Mar 2023,company_id,Foreign Key violation: ZOMATO not in companies master,CRITICAL
+ZOMATO,Mar 2024,company_id,Foreign Key violation: ZOMATO not in companies master,CRITICAL
+ZOMATO,TTM,company_id,Foreign Key violation: ZOMATO not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2013,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2014,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2015,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2016,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2017,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2018,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2019,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2020,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2021,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2022,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2023,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2024,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,TTM,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+INDIGO,TTM,year,Unparseable year label: TTM,CRITICAL
+ADANIENSOL,2014-03,sales,Sales value 0 is non-positive for non-financial company (DQ-06),WARNING
+ADANIENSOL,2024-03,opm_percentage,"OPM cross-check mismatch: sheet=30.0%, calc=34.39% (DQ-05)",WARNING
+ADANIENT,2014-03,tax_percentage,"Tax percentage -64.0% out of range [0, 60] (DQ-11)",WARNING
+ADANIGREEN,2017-03,tax_percentage,"Tax percentage -75.0% out of range [0, 60] (DQ-11)",WARNING
+ADANIGREEN,2018-03,tax_percentage,"Tax percentage -35.0% out of range [0, 60] (DQ-11)",WARNING
+ADANIGREEN,2019-03,tax_percentage,"Tax percentage -19.0% out of range [0, 60] (DQ-11)",WARNING
+ADANIPOWER,2014-03,tax_percentage,"Tax percentage -79.0% out of range [0, 60] (DQ-11)",WARNING
+ADANIPOWER,2016-03,tax_percentage,"Tax percentage -47.0% out of range [0, 60] (DQ-11)",WARNING
+ADANIPOWER,2017-03,tax_percentage,"Tax percentage -1.0% out of range [0, 60] (DQ-11)",WARNING
+ADANIPOWER,2023-03,tax_percentage,"Tax percentage -40.0% out of range [0, 60] (DQ-11)",WARNING
+AMBUJACEM,2018-12,tax_percentage,"Tax percentage -2.0% out of range [0, 60] (DQ-11)",WARNING
+APOLLOHOSP,2018-03,tax_percentage,"Tax percentage 65.0% out of range [0, 60] (DQ-11)",WARNING
+AXISBANK,2013-03,opm_percentage,"OPM cross-check mismatch: sheet=1353.0%, calc=30.58% (DQ-05)",WARNING
+AXISBANK,2014-03,opm_percentage,"OPM cross-check mismatch: sheet=2307.0%, calc=31.47% (DQ-05)",WARNING
+AXISBANK,2015-03,opm_percentage,"OPM cross-check mismatch: sheet=3097.0%, calc=31.36% (DQ-05)",WARNING
+AXISBANK,2016-03,opm_percentage,"OPM cross-check mismatch: sheet=3466.0%, calc=32.61% (DQ-05)",WARNING
+AXISBANK,2017-03,opm_percentage,"OPM cross-check mismatch: sheet=-5715.0%, calc=53.45% (DQ-05)",WARNING
+AXISBANK,2018-03,opm_percentage,"OPM cross-check mismatch: sheet=-10277.0%, calc=63.12% (DQ-05)",WARNING
+AXISBANK,2018-03,tax_percentage,"Tax percentage -99.0% out of range [0, 60] (DQ-11)",WARNING
+AXISBANK,2019-03,opm_percentage,"OPM cross-check mismatch: sheet=-5447.0%, calc=49.39% (DQ-05)",WARNING
+AXISBANK,2020-03,opm_percentage,"OPM cross-check mismatch: sheet=-9859.0%, calc=55.98% (DQ-05)",WARNING
+AXISBANK,2020-03,tax_percentage,"Tax percentage 67.0% out of range [0, 60] (DQ-11)",WARNING
+AXISBANK,2021-03,opm_percentage,"OPM cross-check mismatch: sheet=-2510.0%, calc=50.12% (DQ-05)",WARNING
+AXISBANK,2022-03,opm_percentage,"OPM cross-check mismatch: sheet=3170.0%, calc=44.47% (DQ-05)",WARNING
+AXISBANK,2023-03,opm_percentage,"OPM cross-check mismatch: sheet=13857.0%, calc=34.16% (DQ-05)",WARNING
+AXISBANK,2024-03,opm_percentage,"OPM cross-check mismatch: sheet=11952.0%, calc=34.69% (DQ-05)",WARNING
+BAJFINANCE,2015-03,opm_percentage,"OPM cross-check mismatch: sheet=1367.0%, calc=32.49% (DQ-05)",WARNING
+BAJFINANCE,2016-03,opm_percentage,"OPM cross-check mismatch: sheet=1986.0%, calc=32.25% (DQ-05)",WARNING
+BAJFINANCE,2017-03,opm_percentage,"OPM cross-check mismatch: sheet=2867.0%, calc=32.60% (DQ-05)",WARNING
+BAJFINANCE,2018-03,opm_percentage,"OPM cross-check mismatch: sheet=3935.0%, calc=32.28% (DQ-05)",WARNING
+BAJFINANCE,2019-03,opm_percentage,"OPM cross-check mismatch: sheet=6310.0%, calc=29.50% (DQ-05)",WARNING
+BAJFINANCE,2020-03,opm_percentage,"OPM cross-check mismatch: sheet=7608.0%, calc=34.73% (DQ-05)",WARNING
+BAJFINANCE,2021-03,opm_percentage,"OPM cross-check mismatch: sheet=6314.0%, calc=40.64% (DQ-05)",WARNING
+BAJFINANCE,2022-03,opm_percentage,"OPM cross-check mismatch: sheet=9906.0%, calc=37.55% (DQ-05)",WARNING
+BAJFINANCE,2023-03,opm_percentage,"OPM cross-check mismatch: sheet=16018.0%, calc=30.65% (DQ-05)",WARNING
+BAJFINANCE,2024-03,opm_percentage,"OPM cross-check mismatch: sheet=19987.0%, calc=29.29% (DQ-05)",WARNING
+BANKBARODA,2013-03,opm_percentage,"OPM cross-check mismatch: sheet=1006.0%, calc=30.05% (DQ-05)",WARNING
+BANKBARODA,2014-03,opm_percentage,"OPM cross-check mismatch: sheet=809.0%, calc=29.78% (DQ-05)",WARNING
+BANKBARODA,2015-03,opm_percentage,"OPM cross-check mismatch: sheet=902.0%, calc=29.98% (DQ-05)",WARNING
+BANKBARODA,2016-03,opm_percentage,"OPM cross-check mismatch: sheet=-11700.0%, calc=55.44% (DQ-05)",WARNING
+BANKBARODA,2016-03,tax_percentage,"Tax percentage -19.0% out of range [0, 60] (DQ-11)",WARNING
+BANKBARODA,2017-03,opm_percentage,"OPM cross-check mismatch: sheet=-4372.0%, calc=43.28% (DQ-05)",WARNING
+BANKBARODA,2018-03,opm_percentage,"OPM cross-check mismatch: sheet=-9197.0%, calc=56.65% (DQ-05)",WARNING
+BANKBARODA,2018-03,tax_percentage,"Tax percentage -9.0% out of range [0, 60] (DQ-11)",WARNING
+BANKBARODA,2019-03,opm_percentage,"OPM cross-check mismatch: sheet=-5414.0%, calc=48.79% (DQ-05)",WARNING
+BANKBARODA,2020-03,opm_percentage,"OPM cross-check mismatch: sheet=-11728.0%, calc=51.44% (DQ-05)",WARNING
+BANKBARODA,2020-03,tax_percentage,"Tax percentage -99.0% out of range [0, 60] (DQ-11)",WARNING
+BANKBARODA,2021-03,opm_percentage,"OPM cross-check mismatch: sheet=-6957.0%, calc=51.23% (DQ-05)",WARNING
+BANKBARODA,2021-03,tax_percentage,"Tax percentage 77.0% out of range [0, 60] (DQ-11)",WARNING
+BANKBARODA,2022-03,opm_percentage,"OPM cross-check mismatch: sheet=-2948.0%, calc=51.12% (DQ-05)",WARNING
+BANKBARODA,2023-03,opm_percentage,"OPM cross-check mismatch: sheet=6329.0%, calc=40.45% (DQ-05)",WARNING
+BANKBARODA,2024-03,opm_percentage,"OPM cross-check mismatch: sheet=4102.0%, calc=37.49% (DQ-05)",WARNING
+BHARTIARTL,2014-03,tax_percentage,"Tax percentage 62.0% out of range [0, 60] (DQ-11)",WARNING
+BHARTIARTL,2019-03,tax_percentage,"Tax percentage -99.0% out of range [0, 60] (DQ-11)",WARNING
+BHARTIARTL,2019-03,dividend_payout,Dividend payout 244.0% exceeds cap of 200% (DQ-12),WARNING
+BHARTIARTL,2020-03,tax_percentage,"Tax percentage -28.0% out of range [0, 60] (DQ-11)",WARNING
+BHARTIARTL,2021-03,tax_percentage,"Tax percentage 99.0% out of range [0, 60] (DQ-11)",WARNING
+BHEL,2016-03,tax_percentage,"Tax percentage -39.0% out of range [0, 60] (DQ-11)",WARNING
+BHEL,2018-03,tax_percentage,"Tax percentage 64.0% out of range [0, 60] (DQ-11)",WARNING
+BHEL,2020-03,tax_percentage,"Tax percentage 99.0% out of range [0, 60] (DQ-11)",WARNING
+BHEL,2021-03,tax_percentage,"Tax percentage -25.0% out of range [0, 60] (DQ-11)",WARNING
+BHEL,2024-03,tax_percentage,"Tax percentage -16.0% out of range [0, 60] (DQ-11)",WARNING
+BRITANNIA,2021-03,dividend_payout,Dividend payout 204.0% exceeds cap of 200% (DQ-12),WARNING
+CANBK,2013-03,opm_percentage,"OPM cross-check mismatch: sheet=655.0%, calc=21.18% (DQ-05)",WARNING
+CANBK,2014-03,opm_percentage,"OPM cross-check mismatch: sheet=-672.0%, calc=24.35% (DQ-05)",WARNING
+CANBK,2015-03,opm_percentage,"OPM cross-check mismatch: sheet=-621.0%, calc=23.51% (DQ-05)",WARNING
+CANBK,2016-03,opm_percentage,"OPM cross-check mismatch: sheet=-8008.0%, calc=40.38% (DQ-05)",WARNING
+CANBK,2016-03,tax_percentage,"Tax percentage -13.0% out of range [0, 60] (DQ-11)",WARNING
+CANBK,2017-03,opm_percentage,"OPM cross-check mismatch: sheet=-5775.0%, calc=37.85% (DQ-05)",WARNING
+CANBK,2018-03,opm_percentage,"OPM cross-check mismatch: sheet=-13350.0%, calc=61.87% (DQ-05)",WARNING
+CANBK,2018-03,tax_percentage,"Tax percentage -36.0% out of range [0, 60] (DQ-11)",WARNING
+CANBK,2019-03,opm_percentage,"OPM cross-check mismatch: sheet=-11590.0%, calc=56.73% (DQ-05)",WARNING
+CANBK,2019-03,tax_percentage,"Tax percentage -99.0% out of range [0, 60] (DQ-11)",WARNING
+CANBK,2020-03,opm_percentage,"OPM cross-check mismatch: sheet=-12867.0%, calc=53.88% (DQ-05)",WARNING
+CANBK,2021-03,opm_percentage,"OPM cross-check mismatch: sheet=-18367.0%, calc=61.83% (DQ-05)",WARNING
+CANBK,2022-03,opm_percentage,"OPM cross-check mismatch: sheet=-13657.0%, calc=58.39% (DQ-05)",WARNING
+CANBK,2023-03,opm_percentage,"OPM cross-check mismatch: sheet=-9877.0%, calc=49.80% (DQ-05)",WARNING
+CANBK,2024-03,opm_percentage,"OPM cross-check mismatch: sheet=-7745.0%, calc=41.75% (DQ-05)",WARNING
+CHOLAFIN,2013-03,opm_percentage,"OPM cross-check mismatch: sheet=472.0%, calc=26.77% (DQ-05)",WARNING
+CHOLAFIN,2014-03,opm_percentage,"OPM cross-check mismatch: sheet=578.0%, calc=28.42% (DQ-05)",WARNING
+CHOLAFIN,2015-03,opm_percentage,"OPM cross-check mismatch: sheet=696.0%, calc=28.56% (DQ-05)",WARNING
+CHOLAFIN,2016-03,opm_percentage,"OPM cross-check mismatch: sheet=899.0%, calc=30.04% (DQ-05)",WARNING
+CHOLAFIN,2017-03,opm_percentage,"OPM cross-check mismatch: sheet=1143.0%, calc=28.16% (DQ-05)",WARNING
+CHOLAFIN,2018-03,opm_percentage,"OPM cross-check mismatch: sheet=1451.0%, calc=26.10% (DQ-05)",WARNING
+CHOLAFIN,2019-03,opm_percentage,"OPM cross-check mismatch: sheet=1888.0%, calc=22.96% (DQ-05)",WARNING
+CHOLAFIN,2020-03,opm_percentage,"OPM cross-check mismatch: sheet=1699.0%, calc=27.79% (DQ-05)",WARNING
+CHOLAFIN,2021-03,opm_percentage,"OPM cross-check mismatch: sheet=2094.0%, calc=30.40% (DQ-05)",WARNING
+CHOLAFIN,2022-03,opm_percentage,"OPM cross-check mismatch: sheet=2924.0%, calc=28.83% (DQ-05)",WARNING
+CHOLAFIN,2023-03,opm_percentage,"OPM cross-check mismatch: sheet=3515.0%, calc=28.10% (DQ-05)",WARNING
+CHOLAFIN,2024-03,opm_percentage,"OPM cross-check mismatch: sheet=4548.0%, calc=28.10% (DQ-05)",WARNING
+CIPLA,2013-03,opm_percentage,"OPM cross-check mismatch: sheet=2214.0%, calc=73.26% (DQ-05)",WARNING
+CIPLA,2014-03,opm_percentage,"OPM cross-check mismatch: sheet=2147.0%, calc=78.90% (DQ-05)",WARNING
+CIPLA,2015-03,opm_percentage,"OPM cross-check mismatch: sheet=2163.0%, calc=80.94% (DQ-05)",WARNING
+CIPLA,2016-03,opm_percentage,"OPM cross-check mismatch: sheet=2480.0%, calc=82.02% (DQ-05)",WARNING
+CIPLA,2017-03,opm_percentage,"OPM cross-check mismatch: sheet=2496.0%, calc=82.66% (DQ-05)",WARNING
+CIPLA,2018-03,opm_percentage,"OPM cross-check mismatch: sheet=2826.0%, calc=81.35% (DQ-05)",WARNING
+CIPLA,2019-03,opm_percentage,"OPM cross-check mismatch: sheet=3097.0%, calc=81.07% (DQ-05)",WARNING
+CIPLA,2020-03,opm_percentage,"OPM cross-check mismatch: sheet=3206.0%, calc=81.29% (DQ-05)",WARNING
+CIPLA,2021-03,opm_percentage,"OPM cross-check mismatch: sheet=4252.0%, calc=77.80% (DQ-05)",WARNING
+CIPLA,2022-03,opm_percentage,"OPM cross-check mismatch: sheet=4553.0%, calc=79.08% (DQ-05)",WARNING
+CIPLA,2023-03,opm_percentage,"OPM cross-check mismatch: sheet=5027.0%, calc=77.91% (DQ-05)",WARNING
+CIPLA,2024-03,opm_percentage,"OPM cross-check mismatch: sheet=6291.0%, calc=75.59% (DQ-05)",WARNING
+COALINDIA,2013-03,opm_percentage,"OPM cross-check mismatch: sheet=18087.0%, calc=73.52% (DQ-05)",WARNING
+COALINDIA,2014-03,opm_percentage,"OPM cross-check mismatch: sheet=17766.0%, calc=74.84% (DQ-05)",WARNING
+COALINDIA,2015-03,opm_percentage,"OPM cross-check mismatch: sheet=17343.0%, calc=76.60% (DQ-05)",WARNING
+COALINDIA,2016-03,opm_percentage,"OPM cross-check mismatch: sheet=18714.0%, calc=75.96% (DQ-05)",WARNING
+COALINDIA,2017-03,opm_percentage,"OPM cross-check mismatch: sheet=12448.0%, calc=84.07% (DQ-05)",WARNING
+COALINDIA,2018-03,opm_percentage,"OPM cross-check mismatch: sheet=9288.0%, calc=89.10% (DQ-05)",WARNING
+COALINDIA,2019-03,opm_percentage,"OPM cross-check mismatch: sheet=25007.0%, calc=74.89% (DQ-05)",WARNING
+COALINDIA,2020-03,opm_percentage,"OPM cross-check mismatch: sheet=21581.0%, calc=77.54% (DQ-05)",WARNING
+COALINDIA,2021-03,opm_percentage,"OPM cross-check mismatch: sheet=18628.0%, calc=79.31% (DQ-05)",WARNING
+COALINDIA,2022-03,opm_percentage,"OPM cross-check mismatch: sheet=24721.0%, calc=77.47% (DQ-05)",WARNING
+COALINDIA,2023-03,opm_percentage,"OPM cross-check mismatch: sheet=44232.0%, calc=68.01% (DQ-05)",WARNING
+COALINDIA,2024-03,opm_percentage,"OPM cross-check mismatch: sheet=47971.0%, calc=66.29% (DQ-05)",WARNING
+DLF,2014-03,tax_percentage,"Tax percentage -16.0% out of range [0, 60] (DQ-11)",WARNING
+DLF,2020-03,tax_percentage,"Tax percentage 99.0% out of range [0, 60] (DQ-11)",WARNING
+DRREDDY,2020-03,tax_percentage,"Tax percentage -7.0% out of range [0, 60] (DQ-11)",WARNING
+GODREJCP,2019-03,tax_percentage,"Tax percentage -12.0% out of range [0, 60] (DQ-11)",WARNING
+GODREJCP,2024-03,tax_percentage,"Tax percentage 99.0% out of range [0, 60] (DQ-11)",WARNING
+GRASIM,2020-03,tax_percentage,"Tax percentage -1.0% out of range [0, 60] (DQ-11)",WARNING
+HDFCBANK,2013-03,opm_percentage,"OPM cross-check mismatch: sheet=3534.0%, calc=35.22% (DQ-05)",WARNING
+HDFCBANK,2014-03,opm_percentage,"OPM cross-check mismatch: sheet=5602.0%, calc=31.74% (DQ-05)",WARNING
+HDFCBANK,2015-03,opm_percentage,"OPM cross-check mismatch: sheet=7214.0%, calc=31.90% (DQ-05)",WARNING
+HDFCBANK,2016-03,opm_percentage,"OPM cross-check mismatch: sheet=9037.0%, calc=31.75% (DQ-05)",WARNING
+HDFCBANK,2017-03,opm_percentage,"OPM cross-check mismatch: sheet=11374.0%, calc=32.56% (DQ-05)",WARNING
+HDFCBANK,2018-03,opm_percentage,"OPM cross-check mismatch: sheet=13374.0%, calc=34.63% (DQ-05)",WARNING
+HDFCBANK,2019-03,opm_percentage,"OPM cross-check mismatch: sheet=16592.0%, calc=33.15% (DQ-05)",WARNING
+HDFCBANK,2020-03,opm_percentage,"OPM cross-check mismatch: sheet=14593.0%, calc=37.20% (DQ-05)",WARNING
+HDFCBANK,2021-03,opm_percentage,"OPM cross-check mismatch: sheet=16848.0%, calc=40.81% (DQ-05)",WARNING
+HDFCBANK,2022-03,opm_percentage,"OPM cross-check mismatch: sheet=20795.0%, calc=41.61% (DQ-05)",WARNING
+HDFCBANK,2023-03,opm_percentage,"OPM cross-check mismatch: sheet=29932.0%, calc=36.92% (DQ-05)",WARNING
+HDFCBANK,2024-03,opm_percentage,"OPM cross-check mismatch: sheet=-44685.0%, calc=61.41% (DQ-05)",WARNING
+HDFCLIFE,2013-03,opm_percentage,"OPM cross-check mismatch: sheet=525.0%, calc=96.27% (DQ-05)",WARNING
+HDFCLIFE,2014-03,opm_percentage,"OPM cross-check mismatch: sheet=605.0%, calc=96.48% (DQ-05)",WARNING
+HDFCLIFE,2015-03,opm_percentage,"OPM cross-check mismatch: sheet=874.0%, calc=96.79% (DQ-05)",WARNING
+HDFCLIFE,2016-03,opm_percentage,"OPM cross-check mismatch: sheet=953.0%, calc=94.74% (DQ-05)",WARNING
+HDFCLIFE,2017-03,opm_percentage,"OPM cross-check mismatch: sheet=972.0%, calc=96.83% (DQ-05)",WARNING
+HDFCLIFE,2018-03,opm_percentage,"OPM cross-check mismatch: sheet=1074.0%, calc=96.67% (DQ-05)",WARNING
+HDFCLIFE,2019-03,opm_percentage,"OPM cross-check mismatch: sheet=1215.0%, calc=96.87% (DQ-05)",WARNING
+HDFCLIFE,2020-03,opm_percentage,"OPM cross-check mismatch: sheet=1141.0%, calc=96.12% (DQ-05)",WARNING
+HDFCLIFE,2021-03,opm_percentage,"OPM cross-check mismatch: sheet=1235.0%, calc=98.27% (DQ-05)",WARNING
+HDFCLIFE,2022-03,opm_percentage,"OPM cross-check mismatch: sheet=778.0%, calc=98.84% (DQ-05)",WARNING
+HDFCLIFE,2023-03,opm_percentage,"OPM cross-check mismatch: sheet=80.0%, calc=99.89% (DQ-05)",WARNING
+HDFCLIFE,2024-03,opm_percentage,"OPM cross-check mismatch: sheet=531.0%, calc=99.48% (DQ-05)",WARNING
+HDFCLIFE,2024-03,tax_percentage,"Tax percentage -61.0% out of range [0, 60] (DQ-11)",WARNING
+HEROMOTOCO,2014-03,opm_percentage,"OPM cross-check mismatch: sheet=3553.0%, calc=85.94% (DQ-05)",WARNING
+HEROMOTOCO,2015-03,opm_percentage,"OPM cross-check mismatch: sheet=3520.0%, calc=87.22% (DQ-05)",WARNING
+HEROMOTOCO,2016-03,opm_percentage,"OPM cross-check mismatch: sheet=4424.0%, calc=84.45% (DQ-05)",WARNING
+HEROMOTOCO,2017-03,opm_percentage,"OPM cross-check mismatch: sheet=4585.0%, calc=83.97% (DQ-05)",WARNING
+HEROMOTOCO,2018-03,opm_percentage,"OPM cross-check mismatch: sheet=5334.0%, calc=83.57% (DQ-05)",WARNING
+HEROMOTOCO,2019-03,opm_percentage,"OPM cross-check mismatch: sheet=5025.0%, calc=85.21% (DQ-05)",WARNING
+HEROMOTOCO,2020-03,opm_percentage,"OPM cross-check mismatch: sheet=4070.0%, calc=86.09% (DQ-05)",WARNING
+HEROMOTOCO,2021-03,opm_percentage,"OPM cross-check mismatch: sheet=4058.0%, calc=86.90% (DQ-05)",WARNING
+HEROMOTOCO,2022-03,opm_percentage,"OPM cross-check mismatch: sheet=3256.0%, calc=88.98% (DQ-05)",WARNING
+HEROMOTOCO,2023-03,opm_percentage,"OPM cross-check mismatch: sheet=4099.0%, calc=88.00% (DQ-05)",WARNING
+HEROMOTOCO,2024-03,opm_percentage,"OPM cross-check mismatch: sheet=5235.0%, calc=86.15% (DQ-05)",WARNING
+HINDALCO,2013-03,opm_percentage,"OPM cross-check mismatch: sheet=7699.0%, calc=90.40% (DQ-05)",WARNING
+HINDALCO,2014-03,opm_percentage,"OPM cross-check mismatch: sheet=8024.0%, calc=90.85% (DQ-05)",WARNING
+HINDALCO,2015-03,opm_percentage,"OPM cross-check mismatch: sheet=8844.0%, calc=91.52% (DQ-05)",WARNING
+HINDALCO,2015-03,tax_percentage,"Tax percentage 75.0% out of range [0, 60] (DQ-11)",WARNING
+HINDALCO,2016-03,opm_percentage,"OPM cross-check mismatch: sheet=7778.0%, calc=92.12% (DQ-05)",WARNING
+HINDALCO,2016-03,tax_percentage,"Tax percentage 99.0% out of range [0, 60] (DQ-11)",WARNING
+HINDALCO,2017-03,opm_percentage,"OPM cross-check mismatch: sheet=12317.0%, calc=87.71% (DQ-05)",WARNING
+HINDALCO,2018-03,opm_percentage,"OPM cross-check mismatch: sheet=13695.0%, calc=88.11% (DQ-05)",WARNING
+HINDALCO,2019-03,opm_percentage,"OPM cross-check mismatch: sheet=15511.0%, calc=88.12% (DQ-05)",WARNING
+HINDALCO,2020-03,opm_percentage,"OPM cross-check mismatch: sheet=14306.0%, calc=87.89% (DQ-05)",WARNING
+HINDALCO,2021-03,opm_percentage,"OPM cross-check mismatch: sheet=17559.0%, calc=86.70% (DQ-05)",WARNING
+HINDALCO,2022-03,opm_percentage,"OPM cross-check mismatch: sheet=28347.0%, calc=85.47% (DQ-05)",WARNING
+HINDALCO,2023-03,opm_percentage,"OPM cross-check mismatch: sheet=22666.0%, calc=89.85% (DQ-05)",WARNING
+HINDALCO,2024-03,opm_percentage,"OPM cross-check mismatch: sheet=23872.0%, calc=88.95% (DQ-05)",WARNING
+HINDUNILVR,2013-03,opm_percentage,"OPM cross-check mismatch: sheet=4220.0%, calc=84.37% (DQ-05)",WARNING
+HINDUNILVR,2014-03,opm_percentage,"OPM cross-check mismatch: sheet=4759.0%, calc=83.72% (DQ-05)",WARNING
+HINDUNILVR,2015-03,opm_percentage,"OPM cross-check mismatch: sheet=5412.0%, calc=83.07% (DQ-05)",WARNING
+HINDUNILVR,2016-03,opm_percentage,"OPM cross-check mismatch: sheet=5910.0%, calc=81.64% (DQ-05)",WARNING
+HINDUNILVR,2017-03,opm_percentage,"OPM cross-check mismatch: sheet=6328.0%, calc=80.92% (DQ-05)",WARNING
+HINDUNILVR,2018-03,opm_percentage,"OPM cross-check mismatch: sheet=7499.0%, calc=78.90% (DQ-05)",WARNING
+HINDUNILVR,2019-03,opm_percentage,"OPM cross-check mismatch: sheet=8880.0%, calc=77.41% (DQ-05)",WARNING
+HINDUNILVR,2020-03,opm_percentage,"OPM cross-check mismatch: sheet=9861.0%, calc=75.21% (DQ-05)",WARNING
+HINDUNILVR,2021-03,opm_percentage,"OPM cross-check mismatch: sheet=11626.0%, calc=75.28% (DQ-05)",WARNING
+HINDUNILVR,2022-03,opm_percentage,"OPM cross-check mismatch: sheet=12857.0%, calc=75.49% (DQ-05)",WARNING
+HINDUNILVR,2023-03,opm_percentage,"OPM cross-check mismatch: sheet=14147.0%, calc=76.65% (DQ-05)",WARNING
+HINDUNILVR,2024-03,opm_percentage,"OPM cross-check mismatch: sheet=14659.0%, calc=76.32% (DQ-05)",WARNING
+ICICIBANK,2013-03,opm_percentage,"OPM cross-check mismatch: sheet=-15085.0%, calc=70.59% (DQ-05)",WARNING
+ICICIBANK,2014-03,opm_percentage,"OPM cross-check mismatch: sheet=-13084.0%, calc=66.40% (DQ-05)",WARNING
+ICICIBANK,2015-03,opm_percentage,"OPM cross-check mismatch: sheet=-16120.0%, calc=70.53% (DQ-05)",WARNING
+ICICIBANK,2016-03,opm_percentage,"OPM cross-check mismatch: sheet=-26955.0%, calc=88.12% (DQ-05)",WARNING
+ICICIBANK,2017-03,opm_percentage,"OPM cross-check mismatch: sheet=-37737.0%, calc=104.76% (DQ-05)",WARNING
+ICICIBANK,2018-03,opm_percentage,"OPM cross-check mismatch: sheet=-44906.0%, calc=117.12% (DQ-05)",WARNING
+ICICIBANK,2019-03,opm_percentage,"OPM cross-check mismatch: sheet=-50971.0%, calc=116.38% (DQ-05)",WARNING
+ICICIBANK,2020-03,opm_percentage,"OPM cross-check mismatch: sheet=-45190.0%, calc=100.62% (DQ-05)",WARNING
+ICICIBANK,2021-03,opm_percentage,"OPM cross-check mismatch: sheet=-44805.0%, calc=102.41% (DQ-05)",WARNING
+ICICIBANK,2022-03,opm_percentage,"OPM cross-check mismatch: sheet=-26558.0%, calc=84.69% (DQ-05)",WARNING
+ICICIBANK,2023-03,opm_percentage,"OPM cross-check mismatch: sheet=-17341.0%, calc=72.57% (DQ-05)",WARNING
+ICICIBANK,2024-03,opm_percentage,"OPM cross-check mismatch: sheet=-14152.0%, calc=62.41% (DQ-05)",WARNING
+ICICIGI,2013-03,opm_percentage,"OPM cross-check mismatch: sheet=-178.0%, calc=104.46% (DQ-05)",WARNING
+ICICIGI,2014-03,opm_percentage,"OPM cross-check mismatch: sheet=-225.0%, calc=105.19% (DQ-05)",WARNING
+ICICIGI,2015-03,opm_percentage,"OPM cross-check mismatch: sheet=-221.0%, calc=105.24% (DQ-05)",WARNING
+ICICIGI,2016-03,opm_percentage,"OPM cross-check mismatch: sheet=764.0%, calc=87.34% (DQ-05)",WARNING
+ICICIGI,2017-03,opm_percentage,"OPM cross-check mismatch: sheet=919.0%, calc=87.78% (DQ-05)",WARNING
+ICICIGI,2018-03,opm_percentage,"OPM cross-check mismatch: sheet=-262.0%, calc=103.79% (DQ-05)",WARNING
+ICICIGI,2019-03,opm_percentage,"OPM cross-check mismatch: sheet=1669.0%, calc=85.05% (DQ-05)",WARNING
+ICICIGI,2020-03,opm_percentage,"OPM cross-check mismatch: sheet=1772.0%, calc=84.61% (DQ-05)",WARNING
+ICICIGI,2021-03,opm_percentage,"OPM cross-check mismatch: sheet=2072.0%, calc=82.97% (DQ-05)",WARNING
+ICICIGI,2022-03,opm_percentage,"OPM cross-check mismatch: sheet=1016.0%, calc=93.66% (DQ-05)",WARNING
+ICICIGI,2023-03,opm_percentage,"OPM cross-check mismatch: sheet=1264.0%, calc=92.93% (DQ-05)",WARNING
+ICICIGI,2024-03,opm_percentage,"OPM cross-check mismatch: sheet=2577.0%, calc=87.42% (DQ-05)",WARNING
+ICICIPRULI,2013-03,opm_percentage,"OPM cross-check mismatch: sheet=745.0%, calc=96.28% (DQ-05)",WARNING
+ICICIPRULI,2014-03,opm_percentage,"OPM cross-check mismatch: sheet=1504.0%, calc=93.13% (DQ-05)",WARNING
+ICICIPRULI,2015-03,opm_percentage,"OPM cross-check mismatch: sheet=1655.0%, calc=95.20% (DQ-05)",WARNING
+ICICIPRULI,2016-03,opm_percentage,"OPM cross-check mismatch: sheet=1842.0%, calc=91.17% (DQ-05)",WARNING
+ICICIPRULI,2017-03,opm_percentage,"OPM cross-check mismatch: sheet=1806.0%, calc=95.22% (DQ-05)",WARNING
+ICICIPRULI,2018-03,opm_percentage,"OPM cross-check mismatch: sheet=1771.0%, calc=95.44% (DQ-05)",WARNING
+ICICIPRULI,2019-03,opm_percentage,"OPM cross-check mismatch: sheet=541.0%, calc=98.70% (DQ-05)",WARNING
+ICICIPRULI,2020-03,opm_percentage,"OPM cross-check mismatch: sheet=-319.0%, calc=101.52% (DQ-05)",WARNING
+ICICIPRULI,2021-03,opm_percentage,"OPM cross-check mismatch: sheet=-390.0%, calc=100.47% (DQ-05)",WARNING
+ICICIPRULI,2022-03,opm_percentage,"OPM cross-check mismatch: sheet=-2163.0%, calc=103.40% (DQ-05)",WARNING
+ICICIPRULI,2023-03,opm_percentage,"OPM cross-check mismatch: sheet=-1757.0%, calc=103.48% (DQ-05)",WARNING
+ICICIPRULI,2024-03,opm_percentage,"OPM cross-check mismatch: sheet=-1829.0%, calc=102.03% (DQ-05)",WARNING
+INDUSINDBK,2013-03,opm_percentage,"OPM cross-check mismatch: sheet=286.0%, calc=27.88% (DQ-05)",WARNING
+INDUSINDBK,2014-03,opm_percentage,"OPM cross-check mismatch: sheet=335.0%, calc=30.95% (DQ-05)",WARNING
+INDUSINDBK,2015-03,opm_percentage,"OPM cross-check mismatch: sheet=288.0%, calc=32.33% (DQ-05)",WARNING
+INDUSINDBK,2016-03,opm_percentage,"OPM cross-check mismatch: sheet=329.0%, calc=35.28% (DQ-05)",WARNING
+INDUSINDBK,2017-03,opm_percentage,"OPM cross-check mismatch: sheet=379.0%, calc=39.46% (DQ-05)",WARNING
+INDUSINDBK,2018-03,opm_percentage,"OPM cross-check mismatch: sheet=942.0%, calc=37.93% (DQ-05)",WARNING
+INDUSINDBK,2019-03,opm_percentage,"OPM cross-check mismatch: sheet=-437.0%, calc=41.70% (DQ-05)",WARNING
+INDUSINDBK,2020-03,opm_percentage,"OPM cross-check mismatch: sheet=-553.0%, calc=43.81% (DQ-05)",WARNING
+INDUSINDBK,2021-03,opm_percentage,"OPM cross-check mismatch: sheet=-2469.0%, calc=55.16% (DQ-05)",WARNING
+INDUSINDBK,2022-03,opm_percentage,"OPM cross-check mismatch: sheet=-839.0%, calc=51.39% (DQ-05)",WARNING
+INDUSINDBK,2023-03,opm_percentage,"OPM cross-check mismatch: sheet=2067.0%, calc=42.69% (DQ-05)",WARNING
+INDUSINDBK,2024-03,opm_percentage,"OPM cross-check mismatch: sheet=2978.0%, calc=38.55% (DQ-05)",WARNING
+IOC,2020-03,tax_percentage,"Tax percentage -74.0% out of range [0, 60] (DQ-11)",WARNING
+IRFC,2013-03,tax_percentage,"Tax percentage 64.0% out of range [0, 60] (DQ-11)",WARNING
+JINDALSTEL,2015-03,tax_percentage,"Tax percentage -6.0% out of range [0, 60] (DQ-11)",WARNING
+JINDALSTEL,2016-03,tax_percentage,"Tax percentage -22.0% out of range [0, 60] (DQ-11)",WARNING
+JINDALSTEL,2017-03,tax_percentage,"Tax percentage -17.0% out of range [0, 60] (DQ-11)",WARNING
+JINDALSTEL,2018-03,tax_percentage,"Tax percentage -13.0% out of range [0, 60] (DQ-11)",WARNING
+JINDALSTEL,2019-03,tax_percentage,"Tax percentage -14.0% out of range [0, 60] (DQ-11)",WARNING
+JIOFIN,2023-03,opm_percentage,"OPM cross-check mismatch: sheet=88.0%, calc=86.67% (DQ-05)",WARNING
+JSWENERGY,2018-03,tax_percentage,"Tax percentage 75.0% out of range [0, 60] (DQ-11)",WARNING
+JSWENERGY,2018-03,eps,Net profit is positive (85) but EPS is non-positive (0.0) (DQ-14),WARNING
+JSWSTEEL,2014-03,tax_percentage,"Tax percentage 70.0% out of range [0, 60] (DQ-11)",WARNING
+JSWSTEEL,2016-03,tax_percentage,"Tax percentage -80.0% out of range [0, 60] (DQ-11)",WARNING
+JSWSTEEL,2020-03,tax_percentage,"Tax percentage -30.0% out of range [0, 60] (DQ-11)",WARNING
+KOTAKBANK,2013-03,opm_percentage,"OPM cross-check mismatch: sheet=-1789.0%, calc=60.92% (DQ-05)",WARNING
+KOTAKBANK,2014-03,opm_percentage,"OPM cross-check mismatch: sheet=-1379.0%, calc=58.84% (DQ-05)",WARNING
+KOTAKBANK,2015-03,opm_percentage,"OPM cross-check mismatch: sheet=-3366.0%, calc=72.96% (DQ-05)",WARNING
+KOTAKBANK,2016-03,opm_percentage,"OPM cross-check mismatch: sheet=-2263.0%, calc=56.57% (DQ-05)",WARNING
+KOTAKBANK,2017-03,opm_percentage,"OPM cross-check mismatch: sheet=-3965.0%, calc=66.44% (DQ-05)",WARNING
+KOTAKBANK,2018-03,opm_percentage,"OPM cross-check mismatch: sheet=-4141.0%, calc=66.87% (DQ-05)",WARNING
+KOTAKBANK,2019-03,opm_percentage,"OPM cross-check mismatch: sheet=-5114.0%, calc=66.23% (DQ-05)",WARNING
+KOTAKBANK,2020-03,opm_percentage,"OPM cross-check mismatch: sheet=-5005.0%, calc=67.45% (DQ-05)",WARNING
+KOTAKBANK,2021-03,opm_percentage,"OPM cross-check mismatch: sheet=-9958.0%, calc=90.83% (DQ-05)",WARNING
+KOTAKBANK,2022-03,opm_percentage,"OPM cross-check mismatch: sheet=-8512.0%, calc=90.98% (DQ-05)",WARNING
+KOTAKBANK,2023-03,opm_percentage,"OPM cross-check mismatch: sheet=-5746.0%, calc=79.44% (DQ-05)",WARNING
+KOTAKBANK,2024-03,opm_percentage,"OPM cross-check mismatch: sheet=-13382.0%, calc=83.67% (DQ-05)",WARNING
+LICI,2019-03,tax_percentage,"Tax percentage 68.0% out of range [0, 60] (DQ-11)",WARNING
+LICI,2020-03,tax_percentage,"Tax percentage 80.0% out of range [0, 60] (DQ-11)",WARNING
+LICI,2021-03,tax_percentage,"Tax percentage 76.0% out of range [0, 60] (DQ-11)",WARNING
+LICI,2022-03,tax_percentage,"Tax percentage 66.0% out of range [0, 60] (DQ-11)",WARNING
+LODHA,2021-03,tax_percentage,"Tax percentage -44.0% out of range [0, 60] (DQ-11)",WARNING
+LODHA,2023-03,tax_percentage,"Tax percentage -8.0% out of range [0, 60] (DQ-11)",WARNING
+M&M,2020-03,tax_percentage,"Tax percentage 99.0% out of range [0, 60] (DQ-11)",WARNING
+M&M,2020-03,dividend_payout,Dividend payout 205.0% exceeds cap of 200% (DQ-12),WARNING
+MOTHERSON,2020-03,tax_percentage,"Tax percentage -5.0% out of range [0, 60] (DQ-11)",WARNING
+NAUKRI,2015-03,tax_percentage,"Tax percentage 99.0% out of range [0, 60] (DQ-11)",WARNING
+NAUKRI,2017-03,tax_percentage,"Tax percentage 99.0% out of range [0, 60] (DQ-11)",WARNING
+NAUKRI,2020-03,tax_percentage,"Tax percentage 95.0% out of range [0, 60] (DQ-11)",WARNING
+NAUKRI,2023-03,tax_percentage,"Tax percentage 99.0% out of range [0, 60] (DQ-11)",WARNING
+NHPC,2020-03,tax_percentage,"Tax percentage -2.0% out of range [0, 60] (DQ-11)",WARNING
+NHPC,2022-03,tax_percentage,"Tax percentage -17.0% out of range [0, 60] (DQ-11)",WARNING
+NTPC,2016-03,tax_percentage,"Tax percentage -2.0% out of range [0, 60] (DQ-11)",WARNING
+NTPC,2019-03,tax_percentage,"Tax percentage -25.0% out of range [0, 60] (DQ-11)",WARNING
+PNB,2016-03,tax_percentage,"Tax percentage -31.0% out of range [0, 60] (DQ-11)",WARNING
+PNB,2018-03,tax_percentage,"Tax percentage -37.0% out of range [0, 60] (DQ-11)",WARNING
+PNB,2019-03,tax_percentage,"Tax percentage -35.0% out of range [0, 60] (DQ-11)",WARNING
+POWERGRID,2019-03,tax_percentage,"Tax percentage -10.0% out of range [0, 60] (DQ-11)",WARNING
+SBIN,2017-03,tax_percentage,"Tax percentage 99.0% out of range [0, 60] (DQ-11)",WARNING
+SBIN,2017-03,dividend_payout,Dividend payout 859.0% exceeds cap of 200% (DQ-12),WARNING
+SBIN,2018-03,tax_percentage,"Tax percentage -66.0% out of range [0, 60] (DQ-11)",WARNING
+SHREECEM,2015-06,tax_percentage,"Tax percentage -6.0% out of range [0, 60] (DQ-11)",WARNING
+SUNPHARMA,2024-03,opm_percentage,"OPM cross-check mismatch: sheet=28.0%, calc=26.84% (DQ-05)",WARNING
+TATACONSUM,2016-03,tax_percentage,"Tax percentage 99.0% out of range [0, 60] (DQ-11)",WARNING
+TATAMOTORS,2019-03,tax_percentage,"Tax percentage -8.0% out of range [0, 60] (DQ-11)",WARNING
+TATAMOTORS,2024-03,tax_percentage,"Tax percentage -14.0% out of range [0, 60] (DQ-11)",WARNING
+TATAPOWER,2013-03,tax_percentage,"Tax percentage 92.0% out of range [0, 60] (DQ-11)",WARNING
+TATAPOWER,2013-03,eps,Net profit is positive (123) but EPS is non-positive (0.0) (DQ-14),WARNING
+TATAPOWER,2014-03,tax_percentage,"Tax percentage 99.0% out of range [0, 60] (DQ-11)",WARNING
+TATAPOWER,2014-03,eps,Net profit is positive (12) but EPS is non-positive (-1.0) (DQ-14),WARNING
+TATAPOWER,2015-03,tax_percentage,"Tax percentage 72.0% out of range [0, 60] (DQ-11)",WARNING
+TATAPOWER,2015-03,dividend_payout,Dividend payout 210.0% exceeds cap of 200% (DQ-12),WARNING
+TATASTEEL,2013-03,tax_percentage,"Tax percentage 78.0% out of range [0, 60] (DQ-11)",WARNING
+TATASTEEL,2015-03,tax_percentage,"Tax percentage 99.0% out of range [0, 60] (DQ-11)",WARNING
+TATASTEEL,2016-03,tax_percentage,"Tax percentage 99.0% out of range [0, 60] (DQ-11)",WARNING
+TATASTEEL,2017-03,tax_percentage,"Tax percentage 99.0% out of range [0, 60] (DQ-11)",WARNING
+TATASTEEL,2020-03,tax_percentage,"Tax percentage -99.0% out of range [0, 60] (DQ-11)",WARNING
+TATASTEEL,2024-03,tax_percentage,"Tax percentage 99.0% out of range [0, 60] (DQ-11)",WARNING
+TRENT,2013-03,tax_percentage,"Tax percentage 99.0% out of range [0, 60] (DQ-11)",WARNING
+TRENT,2014-03,tax_percentage,"Tax percentage 99.0% out of range [0, 60] (DQ-11)",WARNING
+TRENT,2021-03,tax_percentage,"Tax percentage -12.0% out of range [0, 60] (DQ-11)",WARNING
+TRENT,2022-03,tax_percentage,"Tax percentage 69.0% out of range [0, 60] (DQ-11)",WARNING
+INDIGO,2013-03,opm_percentage,"OPM cross-check mismatch: sheet=855.0%, calc=90.71% (DQ-05)",WARNING
+INDIGO,2014-03,opm_percentage,"OPM cross-check mismatch: sheet=433.0%, calc=96.11% (DQ-05)",WARNING
+INDIGO,2015-03,opm_percentage,"OPM cross-check mismatch: sheet=1904.0%, calc=86.33% (DQ-05)",WARNING
+INDIGO,2016-03,opm_percentage,"OPM cross-check mismatch: sheet=3164.0%, calc=80.40% (DQ-05)",WARNING
+INDIGO,2017-03,opm_percentage,"OPM cross-check mismatch: sheet=2219.0%, calc=88.06% (DQ-05)",WARNING
+INDIGO,2018-03,opm_percentage,"OPM cross-check mismatch: sheet=3030.0%, calc=86.84% (DQ-05)",WARNING
+INDIGO,2019-03,opm_percentage,"OPM cross-check mismatch: sheet=-151.0%, calc=100.53% (DQ-05)",WARNING
+INDIGO,2019-03,tax_percentage,"Tax percentage -99.0% out of range [0, 60] (DQ-11)",WARNING
+INDIGO,2020-03,opm_percentage,"OPM cross-check mismatch: sheet=4069.0%, calc=88.62% (DQ-05)",WARNING
+INDIGO,2020-03,tax_percentage,"Tax percentage -10.0% out of range [0, 60] (DQ-11)",WARNING
+INDIGO,2021-03,opm_percentage,"OPM cross-check mismatch: sheet=2.0%, calc=99.98% (DQ-05)",WARNING
+INDIGO,2022-03,opm_percentage,"OPM cross-check mismatch: sheet=558.0%, calc=97.85% (DQ-05)",WARNING
+INDIGO,2023-03,opm_percentage,"OPM cross-check mismatch: sheet=6521.0%, calc=88.02% (DQ-05)",WARNING
+INDIGO,2024-03,opm_percentage,"OPM cross-check mismatch: sheet=16331.0%, calc=76.30% (DQ-05)",WARNING
+INDIGO,2024-03,tax_percentage,"Tax percentage -2.0% out of range [0, 60] (DQ-11)",WARNING
+ASIANPAINT,2013-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+ASIANPAINT,2014-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+ASIANPAINT,2015-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+ASIANPAINT,2016-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+ASIANPAINT,2017-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+ASIANPAINT,2018-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+ASIANPAINT,2019-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+ASIANPAINT,2020-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+ASIANPAINT,2021-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+ASIANPAINT,2022-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+ASIANPAINT,2023-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+ASIANPAINT,2024-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+ASIANPAINT,2024-09,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2013-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2014-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2015-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2016-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2017-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2018-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2019-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2020-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2021-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2022-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2023-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2024-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2013-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2014-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2015-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2016-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2017-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2018-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2019-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2020-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2021-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2022-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2023-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2024-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2013-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2014-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2015-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2016-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2017-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2018-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2019-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2020-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2021-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2022-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2023-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2024-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2013-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2014-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2015-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2016-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2017-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2018-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2019-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2020-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2021-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2022-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2023-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+PNB,2024-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+POWERGRID,2013-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+POWERGRID,2014-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+POWERGRID,2015-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+POWERGRID,2016-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+POWERGRID,2017-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+POWERGRID,2018-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+POWERGRID,2019-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+POWERGRID,2020-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+POWERGRID,2021-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+POWERGRID,2022-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+POWERGRID,2023-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+POWERGRID,2024-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+POWERGRID,2024-09,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+ZYDUSLIFE,2013,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,2014,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,2015,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,2016,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,2017,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,2018,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,2019,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,2020,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,2021,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,2022,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,2023,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,2024,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,2024.5,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZOMATO,2018,company_id,Foreign Key violation: ZOMATO not in companies master,CRITICAL
+ZOMATO,2019,company_id,Foreign Key violation: ZOMATO not in companies master,CRITICAL
+ZOMATO,2020,company_id,Foreign Key violation: ZOMATO not in companies master,CRITICAL
+ZOMATO,2021,company_id,Foreign Key violation: ZOMATO not in companies master,CRITICAL
+ZOMATO,2022,company_id,Foreign Key violation: ZOMATO not in companies master,CRITICAL
+ZOMATO,2023,company_id,Foreign Key violation: ZOMATO not in companies master,CRITICAL
+ZOMATO,2024,company_id,Foreign Key violation: ZOMATO not in companies master,CRITICAL
+ZOMATO,2024.5,company_id,Foreign Key violation: ZOMATO not in companies master,CRITICAL
+WIPRO,2013,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,2014,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,2015,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,2016,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,2017,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,2018,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,2019,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,2020,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,2021,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,2022,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,2023,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,2024,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,2024.5,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+VEDL,2013,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,2014,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,2015,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,2016,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,2017,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,2018,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,2019,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,2020,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,2021,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,2022,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,2023,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,2024,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,2024.5,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+UNITDSPR,2013,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,2014,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,2015,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,2016,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,2017,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,2018,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,2019,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,2020,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,2021,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,2022,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,2023,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,2024,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,2024.5,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNIONBANK,Mar 2013,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2014,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2015,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2016,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2017,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2018,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2019,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2020,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2021,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2022,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2023,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2024,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+ULTRACEMCO,Mar 2013,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2014,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2015,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2016,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2017,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2018,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2019,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2020,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2021,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2022,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2023,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2024,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Sep 2024,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+TECHM,2013-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+TECHM,2014-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+TECHM,2015-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+TECHM,2016-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+TECHM,2017-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+TECHM,2018-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+TECHM,2019-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+TECHM,2020-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+TECHM,2021-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+TECHM,2022-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+TECHM,2023-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+TECHM,2024-03,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+TECHM,2024-09,company_id+year,Duplicate entry found in balancesheet (DQ-02). Keeping last occurrence.,WARNING
+ABB,2014-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+ABB,2015-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+ABB,2016-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+ABB,2017-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+ABB,2018-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+ABB,2019-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+ABB,2020-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+ABB,2021-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+ABB,2022-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+ABB,2023-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+ABB,2024-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+AGTL,Mar 2018,company_id,Foreign Key violation: AGTL not in companies master,CRITICAL
+AGTL,Mar 2019,company_id,Foreign Key violation: AGTL not in companies master,CRITICAL
+AGTL,Mar 2020,company_id,Foreign Key violation: AGTL not in companies master,CRITICAL
+AGTL,Mar 2021,company_id,Foreign Key violation: AGTL not in companies master,CRITICAL
+AGTL,Mar 2022,company_id,Foreign Key violation: AGTL not in companies master,CRITICAL
+AGTL,Mar 2023,company_id,Foreign Key violation: AGTL not in companies master,CRITICAL
+AGTL,Mar 2024,company_id,Foreign Key violation: AGTL not in companies master,CRITICAL
+BAJAJ-AUTO,2013-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+BAJAJ-AUTO,2014-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+BAJAJ-AUTO,2015-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+BAJAJ-AUTO,2016-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+BAJAJ-AUTO,2017-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+BAJAJ-AUTO,2018-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+BAJAJ-AUTO,2019-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+BAJAJ-AUTO,2020-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+BAJAJ-AUTO,2021-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+BAJAJ-AUTO,2022-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+BAJAJ-AUTO,2023-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+BAJAJ-AUTO,2024-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+TCS,2013-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+TCS,2014-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+TCS,2015-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+TCS,2016-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+TCS,2017-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+TCS,2018-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+TCS,2019-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+TCS,2020-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+TCS,2021-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+TCS,2022-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+TCS,2023-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+TCS,2024-03,company_id+year,Duplicate entry found in cashflow (DQ-02). Keeping last occurrence.,WARNING
+ULTRACEMCO,Mar 2013,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2014,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2015,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2016,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2017,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2018,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2019,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2020,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2021,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2022,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2023,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+ULTRACEMCO,Mar 2024,company_id,Foreign Key violation: ULTRACEMCO not in companies master,CRITICAL
+UNIONBANK,Mar 2013,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2014,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2015,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2016,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2017,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2018,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2019,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2020,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2021,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2022,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2023,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNIONBANK,Mar 2024,company_id,Foreign Key violation: UNIONBANK not in companies master,CRITICAL
+UNITDSPR,Mar 2013,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,Mar 2014,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,Mar 2015,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,Mar 2016,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,Mar 2017,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,Mar 2018,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,Mar 2019,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,Mar 2020,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,Mar 2021,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,Mar 2022,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,Mar 2023,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+UNITDSPR,Mar 2024,company_id,Foreign Key violation: UNITDSPR not in companies master,CRITICAL
+VBL,Dec 2012,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VBL,Dec 2013,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VBL,Dec 2014,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VBL,Dec 2015,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VBL,Dec 2016,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VBL,Dec 2017,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VBL,Dec 2018,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VBL,Dec 2019,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VBL,Dec 2020,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VBL,Dec 2021,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VBL,Dec 2022,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VBL,Dec 2023,company_id,Foreign Key violation: VBL not in companies master,CRITICAL
+VEDL,Mar 2013,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,Mar 2014,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,Mar 2015,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,Mar 2016,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,Mar 2017,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,Mar 2018,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,Mar 2019,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,Mar 2020,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,Mar 2021,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,Mar 2022,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,Mar 2023,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+VEDL,Mar 2024,company_id,Foreign Key violation: VEDL not in companies master,CRITICAL
+WIPRO,Mar 2013,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,Mar 2014,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,Mar 2015,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,Mar 2016,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,Mar 2017,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,Mar 2018,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,Mar 2019,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,Mar 2020,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,Mar 2021,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,Mar 2022,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,Mar 2023,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+WIPRO,Mar 2024,company_id,Foreign Key violation: WIPRO not in companies master,CRITICAL
+ZOMATO,Mar 2020,company_id,Foreign Key violation: ZOMATO not in companies master,CRITICAL
+ZOMATO,Mar 2021,company_id,Foreign Key violation: ZOMATO not in companies master,CRITICAL
+ZOMATO,Mar 2022,company_id,Foreign Key violation: ZOMATO not in companies master,CRITICAL
+ZOMATO,Mar 2023,company_id,Foreign Key violation: ZOMATO not in companies master,CRITICAL
+ZOMATO,Mar 2024,company_id,Foreign Key violation: ZOMATO not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2013,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2014,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2015,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2016,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2017,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2018,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2019,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2020,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2021,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2022,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2023,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+ZYDUSLIFE,Mar 2024,company_id,Foreign Key violation: ZYDUSLIFE not in companies master,CRITICAL
+TVSMOTOR,2022-03,net_cash_flow,"Net cash flow mismatch: sheet=532.0, calculated=-128.0 (DQ-09)",WARNING
+JIOFIN,ALL,records_count,"Company has only 3 years of records, expected >= 5 (DQ-16)",WARNING
+HAL,2011,company_id+Year,Duplicate document link found in documents sheet (DQ-02). Keeping last occurrence.,WARNING
+ADANIENSOL,2015,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIENSOL,2014,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIENSOL,2013,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIENSOL,2012,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIENSOL,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIENSOL,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIENSOL,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIENT,2011,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+ADANIENT,2010,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+ADANIENT,2009,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+ADANIGREEN,2017,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIGREEN,2016,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIGREEN,2015,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIGREEN,2014,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIGREEN,2013,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIGREEN,2012,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIGREEN,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIGREEN,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIGREEN,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIPORTS,2019,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIPORTS,2018,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIPORTS,2017,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIPORTS,2015,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIPORTS,2014,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIPORTS,2013,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIPORTS,2012,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIPORTS,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIPORTS,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIPOWER,2015,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIPOWER,2014,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIPOWER,2013,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIPOWER,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIPOWER,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ADANIPOWER,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+AMBUJACEM,2014,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+AMBUJACEM,2013,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+AMBUJACEM,2012,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+AMBUJACEM,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+AMBUJACEM,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+APOLLOHOSP,2019,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+APOLLOHOSP,2015,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+APOLLOHOSP,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+APOLLOHOSP,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ASIANPAINT,2013,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ASIANPAINT,2012,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ASIANPAINT,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ASIANPAINT,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ATGL,2018,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ATGL,2017,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ATGL,2016,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ATGL,2015,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ATGL,2014,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ATGL,2013,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ATGL,2012,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ATGL,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ATGL,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ATGL,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+AXISBANK,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+AXISBANK,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+BAJAJ-AUTO,2014,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+BAJAJ-AUTO,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+BAJAJ-AUTO,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+BAJAJFINSV,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+BAJAJFINSV,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+BAJAJHLDNG,2014,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+BAJAJHLDNG,2012,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+BAJAJHLDNG,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+BAJAJHLDNG,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+BAJFINANCE,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+BAJFINANCE,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+BANKBARODA,2010,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BANKBARODA,2009,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BEL,2022,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BEL,2019,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BEL,2015,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BEL,2012,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BEL,2011,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BEL,2010,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BEL,2009,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BHARTIARTL,2021,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BHARTIARTL,2018,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BHARTIARTL,2011,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BHARTIARTL,2010,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BHARTIARTL,2009,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BHEL,2015,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BHEL,2014,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BHEL,2013,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BHEL,2012,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BHEL,2011,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BHEL,2010,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BHEL,2009,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BOSCHLTD,2019,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BOSCHLTD,2018,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BOSCHLTD,2017,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BOSCHLTD,2014,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BOSCHLTD,2013,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BOSCHLTD,2012,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BOSCHLTD,2011,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BOSCHLTD,2010,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BOSCHLTD,2009,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BPCL,2022,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BPCL,2019,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BPCL,2016,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BPCL,2015,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BPCL,2010,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BPCL,2009,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+BRITANNIA,2018,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+BRITANNIA,2016,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+BRITANNIA,2015,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+BRITANNIA,2013,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+BRITANNIA,2012,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+BRITANNIA,2011,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+BRITANNIA,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+BRITANNIA,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+CANBK,2024,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+CANBK,2023,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+CANBK,2021,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+CANBK,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+CANBK,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+CHOLAFIN,2015,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+CHOLAFIN,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+CHOLAFIN,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+CIPLA,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+CIPLA,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+COALINDIA,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+DABUR,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+DABUR,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+DLF,2018,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+DLF,2017,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+DLF,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+DLF,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+DMART,2016,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+DMART,2015,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+DMART,2014,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+DMART,2013,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+DMART,2012,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+DMART,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+DMART,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+DMART,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+DRREDDY,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+DRREDDY,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+DRREDDY,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+EICHERMOT,2019,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+EICHERMOT,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+EICHERMOT,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+GAIL,2022,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+GAIL,2020,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+GAIL,2018,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+GAIL,2015,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+GAIL,2013,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+GAIL,2012,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+GAIL,2011,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+GAIL,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+GAIL,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+GODREJCP,2021,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+GODREJCP,2019,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+GODREJCP,2016,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+GODREJCP,2015,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+GODREJCP,2014,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+GODREJCP,2013,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+GODREJCP,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+GODREJCP,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+GRASIM,2022,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+GRASIM,2018,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+GRASIM,2017,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+GRASIM,2016,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+GRASIM,2013,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+GRASIM,2011,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+GRASIM,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+GRASIM,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+HAL,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+HAVELLS,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+HAVELLS,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+HCLTECH,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+HCLTECH,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+HCLTECH,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+HDFCBANK,2013,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+HDFCBANK,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+HDFCBANK,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+HDFCBANK,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+HDFCLIFE,2012,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+HDFCLIFE,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+HDFCLIFE,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+HDFCLIFE,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+HDFCLIFE,2008,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+HEROMOTOCO,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+HEROMOTOCO,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+HINDALCO,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+HINDALCO,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+HINDUNILVR,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+HINDUNILVR,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ICICIBANK,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ICICIGI,2022,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+ICICIGI,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ICICIPRULI,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ICICIPRULI,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ICICIPRULI,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+INDIGO,2015,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+INDIGO,2014,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+INDIGO,2013,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+INDIGO,2012,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+INDIGO,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+INDIGO,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+INDIGO,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+INDUSINDBK,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+INDUSINDBK,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+INFY,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+INFY,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IOC,2024,Annual_Report,Invalid or missing URL: bseindia.com/xml-data/corpfiling/AttachHis/24a0940c-fa5a-4e36-a404-9dab3637ea0c.pdf (DQ-13),WARNING
+IOC,2023,Annual_Report,Invalid or missing URL: bseindia.com/xml-data/corpfiling/AttachHis//ae413f27-7b30-4cdb-8f1b-8d82e5914e54.pdf (DQ-13),WARNING
+IOC,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IOC,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IRCTC,2019,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IRCTC,2018,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IRCTC,2017,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IRCTC,2016,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IRCTC,2015,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IRCTC,2014,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IRCTC,2013,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IRCTC,2012,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IRCTC,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IRCTC,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IRCTC,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IRFC,2020,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IRFC,2019,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IRFC,2018,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IRFC,2017,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IRFC,2016,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IRFC,2015,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IRFC,2014,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IRFC,2013,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IRFC,2012,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IRFC,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IRFC,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+IRFC,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ITC,2021,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+ITC,2020,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+ITC,2011,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+ITC,2010,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+ITC,2009,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+JINDALSTEL,2010,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+JINDALSTEL,2009,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+JIOFIN,2023,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+JIOFIN,2022,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+JIOFIN,2021,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+JIOFIN,2020,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+JIOFIN,2019,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+JIOFIN,2018,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+JIOFIN,2017,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+JIOFIN,2016,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+JIOFIN,2015,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+JIOFIN,2014,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+JIOFIN,2013,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+JIOFIN,2012,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+JIOFIN,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+JIOFIN,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+JIOFIN,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+JSWENERGY,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+JSWENERGY,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+JSWENERGY,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+JSWSTEEL,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+JSWSTEEL,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+KOTAKBANK,2023,Annual_Report,Invalid or missing URL: bseindia.com/xml-data/corpfiling/AttachHis//b9e0c871-3353-4ef4-855e-069bcfd848e1.pdf (DQ-13),WARNING
+KOTAKBANK,2022,Annual_Report,Invalid or missing URL: bseindia.com/bseplus/AnnualReport/500247/73932500247.pdf (DQ-13),WARNING
+KOTAKBANK,2021,Annual_Report,Invalid or missing URL: bseindia.com/bseplus/AnnualReport/500247/69160500247.pdf (DQ-13),WARNING
+KOTAKBANK,2017,Annual_Report,Invalid or missing URL: bseindia.com/bseplus/AnnualReport/500247/5002470317.pdf (DQ-13),WARNING
+KOTAKBANK,2016,Annual_Report,Invalid or missing URL: 5002470316.pdf (DQ-13),WARNING
+KOTAKBANK,2015,Annual_Report,Invalid or missing URL: 5002470315.pdf (DQ-13),WARNING
+KOTAKBANK,2013,Annual_Report,Invalid or missing URL: untitled (DQ-13),WARNING
+KOTAKBANK,2012,Annual_Report,Invalid or missing URL: bseindia.com/bseplus/AnnualReport/500247/5002470312.pdf (DQ-13),WARNING
+KOTAKBANK,2011,Annual_Report,Invalid or missing URL: 5002470311.pdf (DQ-13),WARNING
+KOTAKBANK,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+KOTAKBANK,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LICI,2021,Annual_Report,URL returns 404: https://licindia.in/getattachment/Bottom-Links/annual-report/LIC-Annual-Report-2021.pdf.aspx (DQ-13),WARNING
+LICI,2020,Annual_Report,URL returns 404: https://licindia.in/getattachment/Bottom-Links/annual-report/LIC-Annual-Report-2019-20.pdf.aspx (DQ-13),WARNING
+LICI,2019,Annual_Report,URL returns 404: https://licindia.in/getattachment/Bottom-Links/annual-report/LIC-AR-2018-19-Final-web.pdf.aspx (DQ-13),WARNING
+LICI,2018,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LICI,2017,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LICI,2016,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LICI,2015,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LICI,2014,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LICI,2013,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LICI,2012,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LICI,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LICI,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LICI,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LODHA,2020,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LODHA,2019,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LODHA,2018,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LODHA,2017,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LODHA,2016,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LODHA,2015,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LODHA,2014,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LODHA,2013,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LODHA,2012,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LODHA,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LODHA,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LODHA,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LT,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LT,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LTIM,2016,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LTIM,2015,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LTIM,2014,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LTIM,2013,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LTIM,2012,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LTIM,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LTIM,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+LTIM,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+M&M,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+M&M,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+MARUTI,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+MARUTI,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+MOTHERSON,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+MOTHERSON,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+NAUKRI,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+NAUKRI,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+NESTLEIND,2023,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+NHPC,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+NHPC,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+NTPC,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+NTPC,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ONGC,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ONGC,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+ONGC,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+PFC,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+PFC,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+PIDILITIND,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+PIDILITIND,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+PIDILITIND,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+PNB,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+PNB,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+POWERGRID,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+POWERGRID,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+RECLTD,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+RECLTD,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+RECLTD,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+RELIANCE,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+RELIANCE,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+RELIANCE,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+SBILIFE,2017,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+SBILIFE,2016,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+SBILIFE,2015,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+SBILIFE,2014,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+SBILIFE,2013,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+SBILIFE,2012,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+SBILIFE,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+SBILIFE,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+SBILIFE,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+SBIN,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+SHREECEM,2019,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+SHREECEM,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+SHREECEM,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+SHREECEM,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+SHRIRAMFIN,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+SHRIRAMFIN,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+SHRIRAMFIN,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+SIEMENS,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+SIEMENS,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+SUNPHARMA,2011,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+SUNPHARMA,2010,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+SUNPHARMA,2009,Annual_Report,Invalid or missing URL: nan (DQ-13),WARNING
+TATACONSUM,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+TATACONSUM,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+TATAMOTORS,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+TATAMOTORS,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+TATAPOWER,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+TATAPOWER,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+TATASTEEL,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+TATASTEEL,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+TCS,2021,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+TCS,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+TCS,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+TECHM,2012,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+TECHM,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+TECHM,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+TECHM,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+TITAN,2011,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+TITAN,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+TITAN,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+TORNTPHARM,2011,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+TORNTPHARM,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+TORNTPHARM,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+TRENT,2020,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+TRENT,2017,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+TRENT,2014,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+TRENT,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+TRENT,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+TVSMOTOR,2020,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+TVSMOTOR,2019,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+TVSMOTOR,2016,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+TVSMOTOR,2015,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+TVSMOTOR,2014,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+TVSMOTOR,2013,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+TVSMOTOR,2012,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+TVSMOTOR,2011,Annual_Report,"URL check failed with error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=0.5) (DQ-13)",WARNING
+TVSMOTOR,2010,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING
+TVSMOTOR,2009,Annual_Report,Invalid or missing URL: Null (DQ-13),WARNING

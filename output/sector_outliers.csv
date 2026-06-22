@@ -1,0 +1,11 @@
+company_id,company_name,sector,kpi,value,sector_mean,z_score
+ADANIGREEN,Adani Green Energy Ltd,Energy,roce_percentage,96.5,21.962142857142858,3.2470893488769663
+ADANIGREEN,Adani Green Energy Ltd,Energy,debt_to_equity,6.595281675818589,1.459648082065076,3.1428777700392247
+PNB,Punjab National Bank,Financials,return_on_equity_pct,61.320565191187306,19.0070932850781,3.2495226363195013
+LICI,Life Insurance Corporation of India,Financials,roce_percentage,63.79,11.965909090909092,4.1152624739845685
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,net_profit_margin_pct,432.7262044653349,39.256348442627846,4.38986921725281
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,interest_coverage,3764.5,394.8035242291753,3.5175615831042775
+PNB,Punjab National Bank,Financials,asset_turnover,1.5070262950629396,0.19832550467494797,4.233577435077388
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,return_on_equity_pct,892.568306010929,86.7241057634709,3.471902785993034
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,asset_turnover,56.38625204582652,5.157839331155129,3.4725940517670435
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,free_cash_flow_cr,45133.0,4444.142857142857,3.22891444411325

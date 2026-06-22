@@ -1,0 +1,652 @@
+company_id,type,rule_triggered,text,confidence_pct
+ABB,pro,ROE > 20%,Company has shown robust return on equity (ROE of 32.5%) indicating highly profitable usage of shareholder funds.,68.01
+ABB,pro,FCF > 100 Cr,Strong positive free cash flow generation of 1095.0 Cr indicating excellent liquidity.,93.13
+ABB,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 21.7%).,73.51
+ABB,pro,ICR > 5.0,"High interest coverage ratio of 141.8x, easily meeting debt obligations.",60.0
+ABB,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 5.03).,60.0
+ABB,pro,ROCE > 20%,Solid return on capital employed (ROCE of 32.5%) demonstrating strong operational efficiency.,75.06
+ABB,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 75.6x.",60.0
+ADANIENSOL,pro,FCF > 100 Cr,Strong positive free cash flow generation of 1095.0 Cr indicating excellent liquidity.,93.13
+ADANIENSOL,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 17.9%.,74.3
+ADANIENSOL,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 16.4%).,73.51
+ADANIENSOL,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 5.05).,60.0
+ADANIENSOL,con,ROE < 10%,Sub-optimal return on equity (ROE of 9.5%) indicating low capital efficiency.,60.0
+ADANIENSOL,con,D/E > 2.0,Highly leveraged balance sheet with debt-to-equity ratio of 2.93x.,90.0
+ADANIENSOL,con,NPM < 8%,"Thin net margins of 7.2%, vulnerable to cost spikes.",60.0
+ADANIENSOL,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 58.5x.",60.0
+ADANIENSOL,con,P/B > 8.0,High price-to-book valuation multiple of 9.1x.,90.0
+ADANIENT,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 19.0%.,74.3
+ADANIENT,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 45.8%).,73.51
+ADANIENT,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 3.09).,60.0
+ADANIENT,con,ROE < 10%,Sub-optimal return on equity (ROE of 8.5%) indicating low capital efficiency.,60.0
+ADANIENT,con,FCF < 0,"Negative free cash flow generation of -8455.0 Cr, suggesting cash drain.",60.0
+ADANIENT,con,NPM < 8%,"Thin net margins of 3.5%, vulnerable to cost spikes.",60.0
+ADANIENT,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 58.9x.",60.0
+ADANIENT,con,P/B > 8.0,High price-to-book valuation multiple of 10.4x.,90.0
+ADANIGREEN,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 35.0%.,74.3
+ADANIGREEN,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 6.12).,60.0
+ADANIGREEN,con,FCF < 0,"Negative free cash flow generation of -13347.0 Cr, suggesting cash drain.",60.0
+ADANIGREEN,con,D/E > 2.0,Highly leveraged balance sheet with debt-to-equity ratio of 6.60x.,90.0
+ADANIPORTS,pro,FCF > 100 Cr,Strong positive free cash flow generation of 8250.0 Cr indicating excellent liquidity.,93.13
+ADANIPORTS,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 19.6%.,74.3
+ADANIPORTS,pro,ICR > 5.0,"High interest coverage ratio of 5.9x, easily meeting debt obligations.",60.0
+ADANIPORTS,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.85).,60.0
+ADANIPORTS,pro,NPM > 25%,Outstanding net profitability margin of 30.3%.,72.69
+ADANIPORTS,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 37.8%.,65.97
+ADANIPORTS,con,DEFAULT,Potential vulnerability to macro-economic changes and sector-specific rotation.,70.0
+ADANIPOWER,pro,ROE > 20%,Company has shown robust return on equity (ROE of 48.3%) indicating highly profitable usage of shareholder funds.,68.01
+ADANIPOWER,pro,FCF > 100 Cr,Strong positive free cash flow generation of 17651.0 Cr indicating excellent liquidity.,93.13
+ADANIPOWER,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 16.1%.,74.3
+ADANIPOWER,pro,ICR > 5.0,"High interest coverage ratio of 8.3x, easily meeting debt obligations.",60.0
+ADANIPOWER,pro,NPM > 25%,Outstanding net profitability margin of 41.4%.,72.69
+ADANIPOWER,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 30.7%.,65.97
+ADANIPOWER,pro,ROCE > 20%,Solid return on capital employed (ROCE of 48.3%) demonstrating strong operational efficiency.,75.06
+ADANIPOWER,con,P/B > 8.0,High price-to-book valuation multiple of 9.9x.,90.0
+AMBUJACEM,pro,ICR > 5.0,"High interest coverage ratio of 28.3x, easily meeting debt obligations.",60.0
+AMBUJACEM,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.19).,60.0
+AMBUJACEM,pro,Dividend Yield > 2%,Attractive dividend yield of 3.1% providing consistent cash returns.,60.0
+AMBUJACEM,con,FCF < 0,"Negative free cash flow generation of -3295.0 Cr, suggesting cash drain.",60.0
+AMBUJACEM,con,Sales CAGR 5yr < 5%,Stagnant or low sales growth over the last 5 years (CAGR of 0.0%).,60.0
+AMBUJACEM,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 55.6x.",60.0
+AMBUJACEM,con,P/B > 8.0,High price-to-book valuation multiple of 9.2x.,90.0
+APOLLOHOSP,pro,FCF > 100 Cr,Strong positive free cash flow generation of 383.0 Cr indicating excellent liquidity.,93.13
+APOLLOHOSP,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 36.1%).,73.51
+APOLLOHOSP,pro,ICR > 5.0,"High interest coverage ratio of 5.6x, easily meeting debt obligations.",60.0
+APOLLOHOSP,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 2.05).,60.0
+APOLLOHOSP,pro,Dividend Yield > 2%,Attractive dividend yield of 3.2% providing consistent cash returns.,60.0
+APOLLOHOSP,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 14.6%.,65.97
+APOLLOHOSP,con,NPM < 8%,"Thin net margins of 4.9%, vulnerable to cost spikes.",60.0
+ASIANPAINT,pro,ROE > 20%,Company has shown robust return on equity (ROE of 29.7%) indicating highly profitable usage of shareholder funds.,68.01
+ASIANPAINT,pro,FCF > 100 Cr,Strong positive free cash flow generation of 3556.0 Cr indicating excellent liquidity.,93.13
+ASIANPAINT,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 20.3%).,73.51
+ASIANPAINT,pro,ICR > 5.0,"High interest coverage ratio of 41.0x, easily meeting debt obligations.",60.0
+ASIANPAINT,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.10).,60.0
+ASIANPAINT,pro,Dividend Yield > 2%,Attractive dividend yield of 2.4% providing consistent cash returns.,60.0
+ASIANPAINT,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 18.0%.,65.97
+ASIANPAINT,pro,ROCE > 20%,Solid return on capital employed (ROCE of 29.7%) demonstrating strong operational efficiency.,75.06
+ASIANPAINT,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 73.4x.",60.0
+ATGL,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 21.1%.,74.3
+ATGL,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 23.9%).,73.51
+ATGL,pro,ICR > 5.0,"High interest coverage ratio of 10.5x, easily meeting debt obligations.",60.0
+ATGL,con,CFO/PAT < 0.5,Low earnings quality with operating cash flows significantly below net profit (CFO/PAT = 0.00).,60.0
+ATGL,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 57.0x.",60.0
+AXISBANK,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 39.7%).,73.51
+AXISBANK,pro,Dividend Yield > 2%,Attractive dividend yield of 2.3% providing consistent cash returns.,60.0
+AXISBANK,con,FCF < 0,"Negative free cash flow generation of -14556.0 Cr, suggesting cash drain.",60.0
+AXISBANK,con,D/E > 2.0,Highly leveraged balance sheet with debt-to-equity ratio of 8.25x.,90.0
+AXISBANK,con,CFO/PAT < 0.5,Low earnings quality with operating cash flows significantly below net profit (CFO/PAT = -0.22).,60.0
+BAJAJ-AUTO,pro,ROE > 20%,Company has shown robust return on equity (ROE of 26.6%) indicating highly profitable usage of shareholder funds.,68.01
+BAJAJ-AUTO,pro,FCF > 100 Cr,Strong positive free cash flow generation of 6486.0 Cr indicating excellent liquidity.,93.13
+BAJAJ-AUTO,pro,ICR > 5.0,"High interest coverage ratio of 174.4x, easily meeting debt obligations.",60.0
+BAJAJ-AUTO,pro,Dividend Yield > 2%,Attractive dividend yield of 3.6% providing consistent cash returns.,60.0
+BAJAJ-AUTO,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 24.0%.,65.97
+BAJAJ-AUTO,pro,ROCE > 20%,Solid return on capital employed (ROCE of 26.6%) demonstrating strong operational efficiency.,75.06
+BAJAJ-AUTO,con,P/B > 8.0,High price-to-book valuation multiple of 9.8x.,90.0
+BAJAJFINSV,pro,ROE > 20%,Company has shown robust return on equity (ROE of 25.9%) indicating highly profitable usage of shareholder funds.,68.01
+BAJAJFINSV,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 21.0%.,74.3
+BAJAJFINSV,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 23.7%).,73.51
+BAJAJFINSV,pro,Dividend Yield > 2%,Attractive dividend yield of 2.6% providing consistent cash returns.,60.0
+BAJAJFINSV,pro,ROCE > 20%,Solid return on capital employed (ROCE of 25.9%) demonstrating strong operational efficiency.,75.06
+BAJAJFINSV,con,FCF < 0,"Negative free cash flow generation of -79634.0 Cr, suggesting cash drain.",60.0
+BAJAJFINSV,con,D/E > 2.0,Highly leveraged balance sheet with debt-to-equity ratio of 4.79x.,90.0
+BAJAJFINSV,con,CFO/PAT < 0.5,Low earnings quality with operating cash flows significantly below net profit (CFO/PAT = -4.40).,60.0
+BAJAJHLDNG,pro,FCF > 100 Cr,Strong positive free cash flow generation of 1469.0 Cr indicating excellent liquidity.,93.13
+BAJAJHLDNG,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 31.6%.,74.3
+BAJAJHLDNG,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 19.3%).,73.51
+BAJAJHLDNG,pro,ICR > 5.0,"High interest coverage ratio of 3764.5x, easily meeting debt obligations.",60.0
+BAJAJHLDNG,pro,NPM > 25%,Outstanding net profitability margin of 432.7%.,72.69
+BAJAJHLDNG,pro,Dividend Yield > 2%,Attractive dividend yield of 3.4% providing consistent cash returns.,60.0
+BAJAJHLDNG,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 25.9%.,65.97
+BAJAJHLDNG,con,CFO/PAT < 0.5,Low earnings quality with operating cash flows significantly below net profit (CFO/PAT = 0.26).,60.0
+BAJAJHLDNG,con,P/B > 8.0,High price-to-book valuation multiple of 9.4x.,90.0
+BAJFINANCE,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 24.4%.,74.3
+BAJFINANCE,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 29.3%).,73.51
+BAJFINANCE,pro,ICR > 5.0,"High interest coverage ratio of 2689.2x, easily meeting debt obligations.",60.0
+BAJFINANCE,pro,NPM > 25%,Outstanding net profitability margin of 26.3%.,72.69
+BAJFINANCE,con,FCF < 0,"Negative free cash flow generation of -79931.0 Cr, suggesting cash drain.",60.0
+BAJFINANCE,con,D/E > 2.0,Highly leveraged balance sheet with debt-to-equity ratio of 3.82x.,90.0
+BAJFINANCE,con,CFO/PAT < 0.5,Low earnings quality with operating cash flows significantly below net profit (CFO/PAT = -5.03).,60.0
+BAJFINANCE,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 69.2x.",60.0
+BANKBARODA,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 17.5%.,74.3
+BANKBARODA,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 74.5%).,73.51
+BANKBARODA,pro,Dividend Yield > 2%,Attractive dividend yield of 2.6% providing consistent cash returns.,60.0
+BANKBARODA,con,FCF < 0,"Negative free cash flow generation of -7559.0 Cr, suggesting cash drain.",60.0
+BANKBARODA,con,D/E > 2.0,Highly leveraged balance sheet with debt-to-equity ratio of 12.14x.,90.0
+BANKBARODA,con,CFO/PAT < 0.5,Low earnings quality with operating cash flows significantly below net profit (CFO/PAT = -0.33).,60.0
+BEL,pro,ROE > 20%,Company has shown robust return on equity (ROE of 4744.0%) indicating highly profitable usage of shareholder funds.,68.01
+BEL,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 16.1%).,73.51
+BEL,pro,ICR > 5.0,"High interest coverage ratio of 476.8x, easily meeting debt obligations.",60.0
+BEL,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.17).,60.0
+BEL,pro,ROCE > 20%,Solid return on capital employed (ROCE of 4744.0%) demonstrating strong operational efficiency.,75.06
+BEL,con,FCF < 0,"Negative free cash flow generation of -1265.0 Cr, suggesting cash drain.",60.0
+BEL,con,P/B > 8.0,High price-to-book valuation multiple of 9.2x.,90.0
+BHARTIARTL,pro,FCF > 100 Cr,Strong positive free cash flow generation of 27809.0 Cr indicating excellent liquidity.,93.13
+BHARTIARTL,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 38.4%).,73.51
+BHARTIARTL,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 9.22).,60.0
+BHARTIARTL,con,D/E > 2.0,Highly leveraged balance sheet with debt-to-equity ratio of 2.61x.,90.0
+BHARTIARTL,con,NPM < 8%,"Thin net margins of 5.7%, vulnerable to cost spikes.",60.0
+BHARTIARTL,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 63.8x.",60.0
+BHEL,pro,Dividend Yield > 2%,Attractive dividend yield of 4.0% providing consistent cash returns.,60.0
+BHEL,con,ROE < 10%,Sub-optimal return on equity (ROE of 1.2%) indicating low capital efficiency.,60.0
+BHEL,con,FCF < 0,"Negative free cash flow generation of -2382.0 Cr, suggesting cash drain.",60.0
+BHEL,con,Sales CAGR 5yr < 5%,Stagnant or low sales growth over the last 5 years (CAGR of -4.7%).,60.0
+BHEL,con,PAT CAGR 5yr < 0%,Decline in net profit over the last 5 years with a negative CAGR of -22.4%.,60.0
+BHEL,con,CFO/PAT < 0.5,Low earnings quality with operating cash flows significantly below net profit (CFO/PAT = -13.17).,60.0
+BHEL,con,NPM < 8%,"Thin net margins of 1.2%, vulnerable to cost spikes.",60.0
+BHEL,con,P/B > 8.0,High price-to-book valuation multiple of 11.4x.,90.0
+BOSCHLTD,pro,ROE > 20%,Company has shown robust return on equity (ROE of 20.6%) indicating highly profitable usage of shareholder funds.,68.01
+BOSCHLTD,pro,FCF > 100 Cr,Strong positive free cash flow generation of 1536.0 Cr indicating excellent liquidity.,93.13
+BOSCHLTD,pro,ICR > 5.0,"High interest coverage ratio of 71.8x, easily meeting debt obligations.",60.0
+BOSCHLTD,pro,Dividend Yield > 2%,Attractive dividend yield of 4.2% providing consistent cash returns.,60.0
+BOSCHLTD,pro,ROCE > 20%,Solid return on capital employed (ROCE of 20.6%) demonstrating strong operational efficiency.,75.06
+BOSCHLTD,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 58.4x.",60.0
+BOSCHLTD,con,FCF CAGR 5yr < 0%,Decline in free cash flow generation over 5 years (CAGR of -8.2%).,60.0
+BPCL,pro,ROE > 20%,Company has shown robust return on equity (ROE of 35.5%) indicating highly profitable usage of shareholder funds.,68.01
+BPCL,pro,FCF > 100 Cr,Strong positive free cash flow generation of 25415.0 Cr indicating excellent liquidity.,93.13
+BPCL,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 25.8%).,73.51
+BPCL,pro,ICR > 5.0,"High interest coverage ratio of 11.4x, easily meeting debt obligations.",60.0
+BPCL,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.34).,60.0
+BPCL,pro,ROCE > 20%,Solid return on capital employed (ROCE of 35.5%) demonstrating strong operational efficiency.,75.06
+BPCL,con,NPM < 8%,"Thin net margins of 6.0%, vulnerable to cost spikes.",60.0
+BPCL,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 68.2x.",60.0
+BRITANNIA,pro,ROE > 20%,Company has shown robust return on equity (ROE of 54.1%) indicating highly profitable usage of shareholder funds.,68.01
+BRITANNIA,pro,FCF > 100 Cr,Strong positive free cash flow generation of 3050.0 Cr indicating excellent liquidity.,93.13
+BRITANNIA,pro,ICR > 5.0,"High interest coverage ratio of 20.6x, easily meeting debt obligations.",60.0
+BRITANNIA,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.21).,60.0
+BRITANNIA,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 58.6%.,65.97
+BRITANNIA,pro,ROCE > 20%,Solid return on capital employed (ROCE of 54.1%) demonstrating strong operational efficiency.,75.06
+BRITANNIA,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 63.9x.",60.0
+CANBK,pro,FCF > 100 Cr,Strong positive free cash flow generation of 13296.0 Cr indicating excellent liquidity.,93.13
+CANBK,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 18.2%.,74.3
+CANBK,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 85.8%).,73.51
+CANBK,pro,Dividend Yield > 2%,Attractive dividend yield of 3.8% providing consistent cash returns.,60.0
+CANBK,con,D/E > 2.0,Highly leveraged balance sheet with debt-to-equity ratio of 14.87x.,90.0
+CANBK,con,P/B > 8.0,High price-to-book valuation multiple of 12.6x.,90.0
+CANBK,con,FCF CAGR 5yr < 0%,Decline in free cash flow generation over 5 years (CAGR of -5.3%).,60.0
+CHOLAFIN,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 21.9%.,74.3
+CHOLAFIN,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 23.4%).,73.51
+CHOLAFIN,pro,ICR > 5.0,"High interest coverage ratio of 21.2x, easily meeting debt obligations.",60.0
+CHOLAFIN,pro,Dividend Yield > 2%,Attractive dividend yield of 2.8% providing consistent cash returns.,60.0
+CHOLAFIN,con,FCF < 0,"Negative free cash flow generation of -38538.0 Cr, suggesting cash drain.",60.0
+CHOLAFIN,con,D/E > 2.0,Highly leveraged balance sheet with debt-to-equity ratio of 6.86x.,90.0
+CHOLAFIN,con,CFO/PAT < 0.5,Low earnings quality with operating cash flows significantly below net profit (CFO/PAT = -10.43).,60.0
+CHOLAFIN,con,P/B > 8.0,High price-to-book valuation multiple of 10.4x.,90.0
+CIPLA,pro,FCF > 100 Cr,Strong positive free cash flow generation of 1152.0 Cr indicating excellent liquidity.,93.13
+CIPLA,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 22.7%).,73.51
+CIPLA,pro,ICR > 5.0,"High interest coverage ratio of 35.3x, easily meeting debt obligations.",60.0
+CIPLA,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 228.8%.,65.97
+CIPLA,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 59.8x.",60.0
+COALINDIA,pro,ROE > 20%,Company has shown robust return on equity (ROE of 45.2%) indicating highly profitable usage of shareholder funds.,68.01
+COALINDIA,pro,FCF > 100 Cr,Strong positive free cash flow generation of 13617.0 Cr indicating excellent liquidity.,93.13
+COALINDIA,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 16.4%).,73.51
+COALINDIA,pro,ICR > 5.0,"High interest coverage ratio of 11.2x, easily meeting debt obligations.",60.0
+COALINDIA,pro,NPM > 25%,Outstanding net profitability margin of 26.3%.,72.69
+COALINDIA,pro,Dividend Yield > 2%,Attractive dividend yield of 4.4% providing consistent cash returns.,60.0
+COALINDIA,pro,ROCE > 20%,Solid return on capital employed (ROCE of 45.2%) demonstrating strong operational efficiency.,75.06
+COALINDIA,con,CFO/PAT < 0.5,Low earnings quality with operating cash flows significantly below net profit (CFO/PAT = 0.48).,60.0
+COALINDIA,con,P/B > 8.0,High price-to-book valuation multiple of 14.8x.,90.0
+DABUR,pro,FCF > 100 Cr,Strong positive free cash flow generation of 1042.0 Cr indicating excellent liquidity.,93.13
+DABUR,pro,ICR > 5.0,"High interest coverage ratio of 23.2x, easily meeting debt obligations.",60.0
+DABUR,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.11).,60.0
+DABUR,pro,Dividend Yield > 2%,Attractive dividend yield of 3.4% providing consistent cash returns.,60.0
+DABUR,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 51.0x.",60.0
+DABUR,con,P/B > 8.0,High price-to-book valuation multiple of 13.6x.,90.0
+DABUR,con,FCF CAGR 5yr < 0%,Decline in free cash flow generation over 5 years (CAGR of -10.7%).,60.0
+DIVISLAB,pro,FCF > 100 Cr,Strong positive free cash flow generation of 992.0 Cr indicating excellent liquidity.,93.13
+DIVISLAB,pro,ICR > 5.0,"High interest coverage ratio of 636.2x, easily meeting debt obligations.",60.0
+DIVISLAB,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 29.8%.,65.97
+DIVISLAB,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 70.0x.",60.0
+DIVISLAB,con,P/B > 8.0,High price-to-book valuation multiple of 12.3x.,90.0
+DLF,pro,FCF > 100 Cr,Strong positive free cash flow generation of 1010.0 Cr indicating excellent liquidity.,93.13
+DLF,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 15.7%).,73.51
+DLF,pro,ICR > 5.0,"High interest coverage ratio of 7.5x, easily meeting debt obligations.",60.0
+DLF,pro,NPM > 25%,Outstanding net profitability margin of 42.4%.,72.69
+DLF,pro,Dividend Yield > 2%,Attractive dividend yield of 2.6% providing consistent cash returns.,60.0
+DLF,con,ROE < 10%,Sub-optimal return on equity (ROE of 6.9%) indicating low capital efficiency.,60.0
+DLF,con,Sales CAGR 5yr < 5%,Stagnant or low sales growth over the last 5 years (CAGR of -5.1%).,60.0
+DLF,con,P/B > 8.0,High price-to-book valuation multiple of 14.3x.,90.0
+DLF,con,FCF CAGR 5yr < 0%,Decline in free cash flow generation over 5 years (CAGR of -13.2%).,60.0
+DMART,pro,FCF > 100 Cr,Strong positive free cash flow generation of 278.0 Cr indicating excellent liquidity.,93.13
+DMART,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 20.5%.,74.3
+DMART,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 23.0%).,73.51
+DMART,pro,ICR > 5.0,"High interest coverage ratio of 73.3x, easily meeting debt obligations.",60.0
+DMART,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.08).,60.0
+DMART,con,NPM < 8%,"Thin net margins of 5.0%, vulnerable to cost spikes.",60.0
+DMART,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 72.5x.",60.0
+DMART,con,P/B > 8.0,High price-to-book valuation multiple of 11.7x.,90.0
+DRREDDY,pro,FCF > 100 Cr,Strong positive free cash flow generation of 509.0 Cr indicating excellent liquidity.,93.13
+DRREDDY,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 23.4%).,73.51
+DRREDDY,pro,ICR > 5.0,"High interest coverage ratio of 51.7x, easily meeting debt obligations.",60.0
+DRREDDY,pro,P/E < 15.0,Trading at an attractive valuation multiple with a P/E of 11.7x.,60.0
+DRREDDY,con,P/B > 8.0,High price-to-book valuation multiple of 10.2x.,90.0
+DRREDDY,con,FCF CAGR 5yr < 0%,Decline in free cash flow generation over 5 years (CAGR of -24.7%).,60.0
+EICHERMOT,pro,ROE > 20%,Company has shown robust return on equity (ROE of 22.2%) indicating highly profitable usage of shareholder funds.,68.01
+EICHERMOT,pro,FCF > 100 Cr,Strong positive free cash flow generation of 890.0 Cr indicating excellent liquidity.,93.13
+EICHERMOT,pro,ICR > 5.0,"High interest coverage ratio of 114.7x, easily meeting debt obligations.",60.0
+EICHERMOT,pro,Dividend Yield > 2%,Attractive dividend yield of 4.4% providing consistent cash returns.,60.0
+EICHERMOT,pro,ROCE > 20%,Solid return on capital employed (ROCE of 22.2%) demonstrating strong operational efficiency.,75.06
+EICHERMOT,con,P/B > 8.0,High price-to-book valuation multiple of 13.6x.,90.0
+EICHERMOT,con,FCF CAGR 5yr < 0%,Decline in free cash flow generation over 5 years (CAGR of -0.6%).,60.0
+GAIL,pro,FCF > 100 Cr,Strong positive free cash flow generation of 4360.0 Cr indicating excellent liquidity.,93.13
+GAIL,pro,ICR > 5.0,"High interest coverage ratio of 23.6x, easily meeting debt obligations.",60.0
+GAIL,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.27).,60.0
+GAIL,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 13.8%.,65.97
+GAIL,con,NPM < 8%,"Thin net margins of 7.4%, vulnerable to cost spikes.",60.0
+GAIL,con,P/B > 8.0,High price-to-book valuation multiple of 9.5x.,90.0
+GODREJCP,pro,Dividend Yield > 2%,Attractive dividend yield of 3.1% providing consistent cash returns.,60.0
+GODREJCP,con,ROE < 10%,Sub-optimal return on equity (ROE of -4.5%) indicating low capital efficiency.,60.0
+GODREJCP,con,FCF < 0,"Negative free cash flow generation of -1365.0 Cr, suggesting cash drain.",60.0
+GODREJCP,con,CFO/PAT < 0.5,Low earnings quality with operating cash flows significantly below net profit (CFO/PAT = -3.69).,60.0
+GODREJCP,con,NPM < 8%,"Thin net margins of -4.0%, vulnerable to cost spikes.",60.0
+GODREJCP,con,P/B > 8.0,High price-to-book valuation multiple of 8.1x.,90.0
+GRASIM,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 29.3%).,73.51
+GRASIM,con,FCF < 0,"Negative free cash flow generation of -33833.0 Cr, suggesting cash drain.",60.0
+GRASIM,con,CFO/PAT < 0.5,Low earnings quality with operating cash flows significantly below net profit (CFO/PAT = -1.08).,60.0
+GRASIM,con,NPM < 8%,"Thin net margins of 7.6%, vulnerable to cost spikes.",60.0
+GRASIM,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 79.3x.",60.0
+HAL,pro,ROE > 20%,Company has shown robust return on equity (ROE of 3816.6%) indicating highly profitable usage of shareholder funds.,68.01
+HAL,pro,FCF > 100 Cr,Strong positive free cash flow generation of 1814.0 Cr indicating excellent liquidity.,93.13
+HAL,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 26.5%).,73.51
+HAL,pro,ICR > 5.0,"High interest coverage ratio of 270.9x, easily meeting debt obligations.",60.0
+HAL,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.08).,60.0
+HAL,pro,Dividend Yield > 2%,Attractive dividend yield of 2.8% providing consistent cash returns.,60.0
+HAL,pro,ROCE > 20%,Solid return on capital employed (ROCE of 3816.6%) demonstrating strong operational efficiency.,75.06
+HAL,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 71.9x.",60.0
+HAVELLS,pro,FCF > 100 Cr,Strong positive free cash flow generation of 335.0 Cr indicating excellent liquidity.,93.13
+HAVELLS,pro,ICR > 5.0,"High interest coverage ratio of 25.4x, easily meeting debt obligations.",60.0
+HAVELLS,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.54).,60.0
+HAVELLS,pro,Dividend Yield > 2%,Attractive dividend yield of 2.6% providing consistent cash returns.,60.0
+HAVELLS,con,NPM < 8%,"Thin net margins of 6.8%, vulnerable to cost spikes.",60.0
+HAVELLS,con,P/B > 8.0,High price-to-book valuation multiple of 14.1x.,90.0
+HAVELLS,con,FCF CAGR 5yr < 0%,Decline in free cash flow generation over 5 years (CAGR of -13.4%).,60.0
+HCLTECH,pro,ROE > 20%,Company has shown robust return on equity (ROE of 23.0%) indicating highly profitable usage of shareholder funds.,68.01
+HCLTECH,pro,FCF > 100 Cr,Strong positive free cash flow generation of 15840.0 Cr indicating excellent liquidity.,93.13
+HCLTECH,pro,ICR > 5.0,"High interest coverage ratio of 46.5x, easily meeting debt obligations.",60.0
+HCLTECH,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.43).,60.0
+HCLTECH,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 22.6%.,65.97
+HCLTECH,pro,ROCE > 20%,Solid return on capital employed (ROCE of 23.0%) demonstrating strong operational efficiency.,75.06
+HCLTECH,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 63.6x.",60.0
+HDFCBANK,pro,FCF > 100 Cr,Strong positive free cash flow generation of 35669.0 Cr indicating excellent liquidity.,93.13
+HDFCBANK,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 22.0%.,74.3
+HDFCBANK,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 23.9%).,73.51
+HDFCBANK,pro,Dividend Yield > 2%,Attractive dividend yield of 4.3% providing consistent cash returns.,60.0
+HDFCBANK,con,D/E > 2.0,Highly leveraged balance sheet with debt-to-equity ratio of 6.81x.,90.0
+HDFCBANK,con,ICR < 1.5,Weak interest coverage ratio of 1.4x showing high debt servicing risk.,60.0
+HDFCBANK,con,CFO/PAT < 0.5,Low earnings quality with operating cash flows significantly below net profit (CFO/PAT = 0.29).,60.0
+HDFCLIFE,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 21.2%.,74.3
+HDFCLIFE,pro,ICR > 5.0,"High interest coverage ratio of 192.3x, easily meeting debt obligations.",60.0
+HDFCLIFE,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 6.81).,60.0
+HDFCLIFE,pro,Dividend Yield > 2%,Attractive dividend yield of 3.2% providing consistent cash returns.,60.0
+HDFCLIFE,con,FCF < 0,"Negative free cash flow generation of -2893.0 Cr, suggesting cash drain.",60.0
+HDFCLIFE,con,NPM < 8%,"Thin net margins of 1.6%, vulnerable to cost spikes.",60.0
+HDFCLIFE,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 50.6x.",60.0
+HDFCLIFE,con,P/B > 8.0,High price-to-book valuation multiple of 11.3x.,90.0
+HEROMOTOCO,pro,ROE > 20%,Company has shown robust return on equity (ROE of 21.1%) indicating highly profitable usage of shareholder funds.,68.01
+HEROMOTOCO,pro,FCF > 100 Cr,Strong positive free cash flow generation of 3095.0 Cr indicating excellent liquidity.,93.13
+HEROMOTOCO,pro,ICR > 5.0,"High interest coverage ratio of 47.3x, easily meeting debt obligations.",60.0
+HEROMOTOCO,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.32).,60.0
+HEROMOTOCO,pro,ROCE > 20%,Solid return on capital employed (ROCE of 21.1%) demonstrating strong operational efficiency.,75.06
+HEROMOTOCO,con,Sales CAGR 5yr < 5%,Stagnant or low sales growth over the last 5 years (CAGR of 2.2%).,60.0
+HEROMOTOCO,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 53.9x.",60.0
+HEROMOTOCO,con,P/B > 8.0,High price-to-book valuation multiple of 12.6x.,90.0
+HINDALCO,pro,FCF > 100 Cr,Strong positive free cash flow generation of 9789.0 Cr indicating excellent liquidity.,93.13
+HINDALCO,pro,ICR > 5.0,"High interest coverage ratio of 126.5x, easily meeting debt obligations.",60.0
+HINDALCO,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 2.37).,60.0
+HINDALCO,con,ROE < 10%,Sub-optimal return on equity (ROE of 9.6%) indicating low capital efficiency.,60.0
+HINDALCO,con,NPM < 8%,"Thin net margins of 4.7%, vulnerable to cost spikes.",60.0
+HINDALCO,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 56.5x.",60.0
+HINDALCO,con,P/B > 8.0,High price-to-book valuation multiple of 9.3x.,90.0
+HINDUNILVR,pro,ROE > 20%,Company has shown robust return on equity (ROE of 20.1%) indicating highly profitable usage of shareholder funds.,68.01
+HINDUNILVR,pro,FCF > 100 Cr,Strong positive free cash flow generation of 10145.0 Cr indicating excellent liquidity.,93.13
+HINDUNILVR,pro,ICR > 5.0,"High interest coverage ratio of 57.8x, easily meeting debt obligations.",60.0
+HINDUNILVR,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.50).,60.0
+HINDUNILVR,pro,Dividend Yield > 2%,Attractive dividend yield of 4.3% providing consistent cash returns.,60.0
+HINDUNILVR,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 13.6%.,65.97
+HINDUNILVR,pro,ROCE > 20%,Solid return on capital employed (ROCE of 20.1%) demonstrating strong operational efficiency.,75.06
+HINDUNILVR,con,P/B > 8.0,High price-to-book valuation multiple of 11.9x.,90.0
+ICICIBANK,pro,FCF > 100 Cr,Strong positive free cash flow generation of 12547.0 Cr indicating excellent liquidity.,93.13
+ICICIBANK,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 17.3%.,74.3
+ICICIBANK,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 51.9%).,73.51
+ICICIBANK,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 3.41).,60.0
+ICICIBANK,pro,NPM > 25%,Outstanding net profitability margin of 28.9%.,72.69
+ICICIBANK,pro,Dividend Yield > 2%,Attractive dividend yield of 3.4% providing consistent cash returns.,60.0
+ICICIBANK,con,D/E > 2.0,Highly leveraged balance sheet with debt-to-equity ratio of 6.45x.,90.0
+ICICIBANK,con,ICR < 1.5,Weak interest coverage ratio of 1.3x showing high debt servicing risk.,60.0
+ICICIBANK,con,FCF CAGR 5yr < 0%,Decline in free cash flow generation over 5 years (CAGR of -7.4%).,60.0
+ICICIGI,pro,FCF > 100 Cr,Strong positive free cash flow generation of 486.0 Cr indicating excellent liquidity.,93.13
+ICICIGI,pro,ICR > 5.0,"High interest coverage ratio of 160.0x, easily meeting debt obligations.",60.0
+ICICIGI,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.25).,60.0
+ICICIGI,pro,Dividend Yield > 2%,Attractive dividend yield of 3.5% providing consistent cash returns.,60.0
+ICICIGI,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 32.3%.,65.97
+ICICIGI,con,DEFAULT,Potential vulnerability to macro-economic changes and sector-specific rotation.,70.0
+ICICIPRULI,pro,FCF > 100 Cr,Strong positive free cash flow generation of 105.0 Cr indicating excellent liquidity.,93.13
+ICICIPRULI,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 16.8%.,74.3
+ICICIPRULI,pro,ICR > 5.0,"High interest coverage ratio of 31.0x, easily meeting debt obligations.",60.0
+ICICIPRULI,con,ROE < 10%,Sub-optimal return on equity (ROE of 7.7%) indicating low capital efficiency.,60.0
+ICICIPRULI,con,PAT CAGR 5yr < 0%,Decline in net profit over the last 5 years with a negative CAGR of -5.7%.,60.0
+ICICIPRULI,con,CFO/PAT < 0.5,Low earnings quality with operating cash flows significantly below net profit (CFO/PAT = -8.60).,60.0
+ICICIPRULI,con,NPM < 8%,"Thin net margins of 0.9%, vulnerable to cost spikes.",60.0
+ICICIPRULI,con,P/B > 8.0,High price-to-book valuation multiple of 12.4x.,90.0
+ICICIPRULI,con,FCF CAGR 5yr < 0%,Decline in free cash flow generation over 5 years (CAGR of -51.3%).,60.0
+INDIGO,pro,ROE > 20%,Company has shown robust return on equity (ROE of 892.6%) indicating highly profitable usage of shareholder funds.,68.01
+INDIGO,pro,FCF > 100 Cr,Strong positive free cash flow generation of 9424.0 Cr indicating excellent liquidity.,93.13
+INDIGO,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 19.3%.,74.3
+INDIGO,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 120.7%).,73.51
+INDIGO,pro,ICR > 5.0,"High interest coverage ratio of 22.6x, easily meeting debt obligations.",60.0
+INDIGO,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 2.59).,60.0
+INDIGO,pro,Dividend Yield > 2%,Attractive dividend yield of 4.3% providing consistent cash returns.,60.0
+INDIGO,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 71.6%.,65.97
+INDIGO,pro,ROCE > 20%,Solid return on capital employed (ROCE of 892.6%) demonstrating strong operational efficiency.,75.06
+INDIGO,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 76.2x.",60.0
+INDUSINDBK,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 15.5%.,74.3
+INDUSINDBK,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 22.1%).,73.51
+INDUSINDBK,pro,P/E < 15.0,Trading at an attractive valuation multiple with a P/E of 9.0x.,60.0
+INDUSINDBK,con,FCF < 0,"Negative free cash flow generation of -17468.0 Cr, suggesting cash drain.",60.0
+INDUSINDBK,con,D/E > 2.0,Highly leveraged balance sheet with debt-to-equity ratio of 6.89x.,90.0
+INDUSINDBK,con,CFO/PAT < 0.5,Low earnings quality with operating cash flows significantly below net profit (CFO/PAT = -1.88).,60.0
+INFY,pro,ROE > 20%,Company has shown robust return on equity (ROE of 29.8%) indicating highly profitable usage of shareholder funds.,68.01
+INFY,pro,FCF > 100 Cr,Strong positive free cash flow generation of 20117.0 Cr indicating excellent liquidity.,93.13
+INFY,pro,ICR > 5.0,"High interest coverage ratio of 87.5x, easily meeting debt obligations.",60.0
+INFY,pro,Dividend Yield > 2%,Attractive dividend yield of 4.1% providing consistent cash returns.,60.0
+INFY,pro,ROCE > 20%,Solid return on capital employed (ROCE of 29.8%) demonstrating strong operational efficiency.,75.06
+INFY,con,P/B > 8.0,High price-to-book valuation multiple of 9.0x.,90.0
+IOC,pro,ROE > 20%,Company has shown robust return on equity (ROE of 23.5%) indicating highly profitable usage of shareholder funds.,68.01
+IOC,pro,FCF > 100 Cr,Strong positive free cash flow generation of 39635.0 Cr indicating excellent liquidity.,93.13
+IOC,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 20.1%).,73.51
+IOC,pro,ICR > 5.0,"High interest coverage ratio of 10.3x, easily meeting debt obligations.",60.0
+IOC,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.65).,60.0
+IOC,pro,ROCE > 20%,Solid return on capital employed (ROCE of 23.5%) demonstrating strong operational efficiency.,75.06
+IOC,con,NPM < 8%,"Thin net margins of 5.6%, vulnerable to cost spikes.",60.0
+IRCTC,pro,ROE > 20%,Company has shown robust return on equity (ROE of 34.4%) indicating highly profitable usage of shareholder funds.,68.01
+IRCTC,pro,FCF > 100 Cr,Strong positive free cash flow generation of 667.0 Cr indicating excellent liquidity.,93.13
+IRCTC,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 18.0%.,74.3
+IRCTC,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 29.2%).,73.51
+IRCTC,pro,ICR > 5.0,"High interest coverage ratio of 82.7x, easily meeting debt obligations.",60.0
+IRCTC,pro,NPM > 25%,Outstanding net profitability margin of 26.0%.,72.69
+IRCTC,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 35.5%.,65.97
+IRCTC,pro,ROCE > 20%,Solid return on capital employed (ROCE of 34.4%) demonstrating strong operational efficiency.,75.06
+IRCTC,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 60.4x.",60.0
+IRFC,pro,FCF > 100 Cr,Strong positive free cash flow generation of 7906.0 Cr indicating excellent liquidity.,93.13
+IRFC,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 19.1%.,74.3
+IRFC,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 23.2%).,73.51
+IRFC,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.23).,60.0
+IRFC,pro,Dividend Yield > 2%,Attractive dividend yield of 2.8% providing consistent cash returns.,60.0
+IRFC,pro,P/E < 15.0,Trading at an attractive valuation multiple with a P/E of 9.8x.,60.0
+IRFC,con,D/E > 2.0,Highly leveraged balance sheet with debt-to-equity ratio of 8.38x.,90.0
+IRFC,con,ICR < 1.5,Weak interest coverage ratio of 1.3x showing high debt servicing risk.,60.0
+ITC,pro,ROE > 20%,Company has shown robust return on equity (ROE of 27.9%) indicating highly profitable usage of shareholder funds.,68.01
+ITC,pro,FCF > 100 Cr,Strong positive free cash flow generation of 18742.0 Cr indicating excellent liquidity.,93.13
+ITC,pro,ICR > 5.0,"High interest coverage ratio of 363.0x, easily meeting debt obligations.",60.0
+ITC,pro,NPM > 25%,Outstanding net profitability margin of 29.3%.,72.69
+ITC,pro,Dividend Yield > 2%,Attractive dividend yield of 4.3% providing consistent cash returns.,60.0
+ITC,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 21.6%.,65.97
+ITC,pro,ROCE > 20%,Solid return on capital employed (ROCE of 27.9%) demonstrating strong operational efficiency.,75.06
+ITC,con,DEFAULT,Potential vulnerability to macro-economic changes and sector-specific rotation.,70.0
+JINDALSTEL,pro,ICR > 5.0,"High interest coverage ratio of 8.0x, easily meeting debt obligations.",60.0
+JINDALSTEL,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.01).,60.0
+JINDALSTEL,con,FCF < 0,"Negative free cash flow generation of -2336.0 Cr, suggesting cash drain.",60.0
+JINDALSTEL,con,Sales CAGR 5yr < 5%,Stagnant or low sales growth over the last 5 years (CAGR of 1.4%).,60.0
+JINDALSTEL,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 77.6x.",60.0
+JIOFIN,pro,FCF > 100 Cr,Strong positive free cash flow generation of 763.0 Cr indicating excellent liquidity.,93.13
+JIOFIN,pro,Debt-Free,"Virtually debt-free balance sheet, reducing leverage risk.",60.0
+JIOFIN,pro,ICR > 5.0,"High interest coverage ratio of 198.8x, easily meeting debt obligations.",60.0
+JIOFIN,pro,NPM > 25%,Outstanding net profitability margin of 86.5%.,72.69
+JIOFIN,pro,Dividend Yield > 2%,Attractive dividend yield of 3.1% providing consistent cash returns.,60.0
+JIOFIN,con,ROE < 10%,Sub-optimal return on equity (ROE of 1.2%) indicating low capital efficiency.,60.0
+JIOFIN,con,Sales CAGR 5yr < 5%,Stagnant or low sales growth over the last 5 years (CAGR of 0.0%).,60.0
+JIOFIN,con,CFO/PAT < 0.5,Low earnings quality with operating cash flows significantly below net profit (CFO/PAT = -0.42).,60.0
+JIOFIN,con,P/B > 8.0,High price-to-book valuation multiple of 9.9x.,90.0
+JSWENERGY,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 20.3%).,73.51
+JSWENERGY,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 3.61).,60.0
+JSWENERGY,con,ROE < 10%,Sub-optimal return on equity (ROE of 8.3%) indicating low capital efficiency.,60.0
+JSWENERGY,con,FCF < 0,"Negative free cash flow generation of -1963.0 Cr, suggesting cash drain.",60.0
+JSWENERGY,con,Sales CAGR 5yr < 5%,Stagnant or low sales growth over the last 5 years (CAGR of 4.7%).,60.0
+JSWENERGY,con,P/B > 8.0,High price-to-book valuation multiple of 9.9x.,90.0
+JSWSTEEL,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 15.6%.,74.3
+JSWSTEEL,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.35).,60.0
+JSWSTEEL,pro,Dividend Yield > 2%,Attractive dividend yield of 2.9% providing consistent cash returns.,60.0
+JSWSTEEL,con,FCF < 0,"Negative free cash flow generation of -2389.0 Cr, suggesting cash drain.",60.0
+JSWSTEEL,con,NPM < 8%,"Thin net margins of 5.1%, vulnerable to cost spikes.",60.0
+JSWSTEEL,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 69.3x.",60.0
+KOTAKBANK,pro,FCF > 100 Cr,Strong positive free cash flow generation of 6766.0 Cr indicating excellent liquidity.,93.13
+KOTAKBANK,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 20.4%).,73.51
+KOTAKBANK,pro,NPM > 25%,Outstanding net profitability margin of 32.4%.,72.69
+KOTAKBANK,con,D/E > 2.0,Highly leveraged balance sheet with debt-to-equity ratio of 4.00x.,90.0
+KOTAKBANK,con,ICR < 1.5,Weak interest coverage ratio of 1.2x showing high debt servicing risk.,60.0
+LICI,pro,ROE > 20%,Company has shown robust return on equity (ROE of 49.4%) indicating highly profitable usage of shareholder funds.,68.01
+LICI,pro,FCF > 100 Cr,Strong positive free cash flow generation of 853.0 Cr indicating excellent liquidity.,93.13
+LICI,pro,Debt-Free,"Virtually debt-free balance sheet, reducing leverage risk.",60.0
+LICI,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 73.2%).,73.51
+LICI,pro,ICR > 5.0,"High interest coverage ratio of 371.9x, easily meeting debt obligations.",60.0
+LICI,pro,Dividend Yield > 2%,Attractive dividend yield of 3.8% providing consistent cash returns.,60.0
+LICI,pro,ROCE > 20%,Solid return on capital employed (ROCE of 49.4%) demonstrating strong operational efficiency.,75.06
+LICI,con,NPM < 8%,"Thin net margins of 4.8%, vulnerable to cost spikes.",60.0
+LICI,con,P/B > 8.0,High price-to-book valuation multiple of 8.1x.,90.0
+LICI,con,FCF CAGR 5yr < 0%,Decline in free cash flow generation over 5 years (CAGR of -48.2%).,60.0
+LODHA,pro,ICR > 5.0,"High interest coverage ratio of 5.6x, easily meeting debt obligations.",60.0
+LODHA,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.62).,60.0
+LODHA,pro,Dividend Yield > 2%,Attractive dividend yield of 4.0% providing consistent cash returns.,60.0
+LODHA,con,ROE < 10%,Sub-optimal return on equity (ROE of 8.9%) indicating low capital efficiency.,60.0
+LODHA,con,FCF < 0,"Negative free cash flow generation of -435.0 Cr, suggesting cash drain.",60.0
+LODHA,con,Sales CAGR 5yr < 5%,Stagnant or low sales growth over the last 5 years (CAGR of -2.8%).,60.0
+LODHA,con,PAT CAGR 5yr < 0%,Decline in net profit over the last 5 years with a negative CAGR of -1.1%.,60.0
+LODHA,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 52.0x.",60.0
+LT,pro,ROE > 20%,Company has shown robust return on equity (ROE of 77.7%) indicating highly profitable usage of shareholder funds.,68.01
+LT,pro,FCF > 100 Cr,Strong positive free cash flow generation of 20445.0 Cr indicating excellent liquidity.,93.13
+LT,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.17).,60.0
+LT,pro,ROCE > 20%,Solid return on capital employed (ROCE of 77.7%) demonstrating strong operational efficiency.,75.06
+LT,con,NPM < 8%,"Thin net margins of 7.0%, vulnerable to cost spikes.",60.0
+LTIM,pro,ROE > 20%,Company has shown robust return on equity (ROE of 22.9%) indicating highly profitable usage of shareholder funds.,68.01
+LTIM,pro,FCF > 100 Cr,Strong positive free cash flow generation of 1752.0 Cr indicating excellent liquidity.,93.13
+LTIM,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 30.3%.,74.3
+LTIM,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 24.8%).,73.51
+LTIM,pro,ICR > 5.0,"High interest coverage ratio of 31.9x, easily meeting debt obligations.",60.0
+LTIM,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.24).,60.0
+LTIM,pro,Dividend Yield > 2%,Attractive dividend yield of 4.4% providing consistent cash returns.,60.0
+LTIM,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 22.1%.,65.97
+LTIM,pro,ROCE > 20%,Solid return on capital employed (ROCE of 22.9%) demonstrating strong operational efficiency.,75.06
+LTIM,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 64.5x.",60.0
+M&M,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 15.3%).,73.51
+M&M,pro,Dividend Yield > 2%,Attractive dividend yield of 2.4% providing consistent cash returns.,60.0
+M&M,pro,P/E < 15.0,Trading at an attractive valuation multiple with a P/E of 14.2x.,60.0
+M&M,con,FCF < 0,"Negative free cash flow generation of -11245.0 Cr, suggesting cash drain.",60.0
+M&M,con,CFO/PAT < 0.5,Low earnings quality with operating cash flows significantly below net profit (CFO/PAT = -0.46).,60.0
+MARUTI,pro,FCF > 100 Cr,Strong positive free cash flow generation of 4936.0 Cr indicating excellent liquidity.,93.13
+MARUTI,pro,ICR > 5.0,"High interest coverage ratio of 117.9x, easily meeting debt obligations.",60.0
+MARUTI,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.25).,60.0
+MARUTI,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 10.0%.,65.97
+MARUTI,con,P/B > 8.0,High price-to-book valuation multiple of 8.3x.,90.0
+MOTHERSON,pro,FCF > 100 Cr,Strong positive free cash flow generation of 925.0 Cr indicating excellent liquidity.,93.13
+MOTHERSON,pro,ICR > 5.0,"High interest coverage ratio of 5.2x, easily meeting debt obligations.",60.0
+MOTHERSON,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 2.51).,60.0
+MOTHERSON,pro,Dividend Yield > 2%,Attractive dividend yield of 2.2% providing consistent cash returns.,60.0
+MOTHERSON,pro,P/E < 15.0,Trading at an attractive valuation multiple with a P/E of 9.5x.,60.0
+MOTHERSON,con,NPM < 8%,"Thin net margins of 3.1%, vulnerable to cost spikes.",60.0
+MOTHERSON,con,FCF CAGR 5yr < 0%,Decline in free cash flow generation over 5 years (CAGR of -1.4%).,60.0
+NAUKRI,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 17.1%.,74.3
+NAUKRI,pro,ICR > 5.0,"High interest coverage ratio of 29.0x, easily meeting debt obligations.",60.0
+NAUKRI,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.18).,60.0
+NAUKRI,pro,Dividend Yield > 2%,Attractive dividend yield of 4.3% providing consistent cash returns.,60.0
+NAUKRI,con,ROE < 10%,Sub-optimal return on equity (ROE of 2.0%) indicating low capital efficiency.,60.0
+NAUKRI,con,FCF < 0,"Negative free cash flow generation of -150.0 Cr, suggesting cash drain.",60.0
+NAUKRI,con,P/B > 8.0,High price-to-book valuation multiple of 8.3x.,90.0
+NESTLEIND,pro,ROE > 20%,Company has shown robust return on equity (ROE of 117.8%) indicating highly profitable usage of shareholder funds.,68.01
+NESTLEIND,pro,FCF > 100 Cr,Strong positive free cash flow generation of 2938.0 Cr indicating excellent liquidity.,93.13
+NESTLEIND,pro,ICR > 5.0,"High interest coverage ratio of 41.2x, easily meeting debt obligations.",60.0
+NESTLEIND,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.06).,60.0
+NESTLEIND,pro,Dividend Yield > 2%,Attractive dividend yield of 3.9% providing consistent cash returns.,60.0
+NESTLEIND,pro,ROCE > 20%,Solid return on capital employed (ROCE of 117.8%) demonstrating strong operational efficiency.,75.06
+NESTLEIND,con,Sales CAGR 5yr < 5%,Stagnant or low sales growth over the last 5 years (CAGR of 0.0%).,60.0
+NESTLEIND,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 55.0x.",60.0
+NESTLEIND,con,P/B > 8.0,High price-to-book valuation multiple of 14.3x.,90.0
+NHPC,pro,FCF > 100 Cr,Strong positive free cash flow generation of 970.0 Cr indicating excellent liquidity.,93.13
+NHPC,pro,ICR > 5.0,"High interest coverage ratio of 11.2x, easily meeting debt obligations.",60.0
+NHPC,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.72).,60.0
+NHPC,pro,NPM > 25%,Outstanding net profitability margin of 41.8%.,72.69
+NHPC,con,Sales CAGR 5yr < 5%,Stagnant or low sales growth over the last 5 years (CAGR of 1.4%).,60.0
+NHPC,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 71.2x.",60.0
+NHPC,con,P/B > 8.0,High price-to-book valuation multiple of 13.7x.,90.0
+NHPC,con,FCF CAGR 5yr < 0%,Decline in free cash flow generation over 5 years (CAGR of -18.2%).,60.0
+NTPC,pro,FCF > 100 Cr,Strong positive free cash flow generation of 8644.0 Cr indicating excellent liquidity.,93.13
+NTPC,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.91).,60.0
+NTPC,con,DEFAULT,Potential vulnerability to macro-economic changes and sector-specific rotation.,70.0
+ONGC,pro,FCF > 100 Cr,Strong positive free cash flow generation of 42060.0 Cr indicating excellent liquidity.,93.13
+ONGC,pro,ICR > 5.0,"High interest coverage ratio of 11.4x, easily meeting debt obligations.",60.0
+ONGC,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.74).,60.0
+ONGC,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 11.6%.,65.97
+ONGC,con,P/B > 8.0,High price-to-book valuation multiple of 10.4x.,90.0
+PFC,pro,ROE > 20%,Company has shown robust return on equity (ROE of 26.2%) indicating highly profitable usage of shareholder funds.,68.01
+PFC,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 15.9%).,73.51
+PFC,pro,NPM > 25%,Outstanding net profitability margin of 28.9%.,72.69
+PFC,pro,ROCE > 20%,Solid return on capital employed (ROCE of 26.2%) demonstrating strong operational efficiency.,75.06
+PFC,con,FCF < 0,"Negative free cash flow generation of -101229.0 Cr, suggesting cash drain.",60.0
+PFC,con,D/E > 2.0,Highly leveraged balance sheet with debt-to-equity ratio of 8.52x.,90.0
+PFC,con,ICR < 1.5,Weak interest coverage ratio of 0.6x showing high debt servicing risk.,60.0
+PFC,con,CFO/PAT < 0.5,Low earnings quality with operating cash flows significantly below net profit (CFO/PAT = -3.70).,60.0
+PIDILITIND,pro,ROE > 20%,Company has shown robust return on equity (ROE of 20.8%) indicating highly profitable usage of shareholder funds.,68.01
+PIDILITIND,pro,FCF > 100 Cr,Strong positive free cash flow generation of 955.0 Cr indicating excellent liquidity.,93.13
+PIDILITIND,pro,ICR > 5.0,"High interest coverage ratio of 54.3x, easily meeting debt obligations.",60.0
+PIDILITIND,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.56).,60.0
+PIDILITIND,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 23.5%.,65.97
+PIDILITIND,pro,ROCE > 20%,Solid return on capital employed (ROCE of 20.8%) demonstrating strong operational efficiency.,75.06
+PIDILITIND,con,P/B > 8.0,High price-to-book valuation multiple of 12.3x.,90.0
+PNB,pro,ROE > 20%,Company has shown robust return on equity (ROE of 61.3%) indicating highly profitable usage of shareholder funds.,68.01
+PNB,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 15.9%.,74.3
+PNB,pro,ICR > 5.0,"High interest coverage ratio of 999.0x, easily meeting debt obligations.",60.0
+PNB,pro,ROCE > 20%,Solid return on capital employed (ROCE of 61.3%) demonstrating strong operational efficiency.,75.06
+PNB,con,FCF < 0,"Negative free cash flow generation of -29445.0 Cr, suggesting cash drain.",60.0
+PNB,con,D/E > 2.0,Highly leveraged balance sheet with debt-to-equity ratio of 3.68x.,90.0
+PNB,con,CFO/PAT < 0.5,Low earnings quality with operating cash flows significantly below net profit (CFO/PAT = -3.05).,60.0
+PNB,con,P/B > 8.0,High price-to-book valuation multiple of 10.9x.,90.0
+POWERGRID,pro,FCF > 100 Cr,Strong positive free cash flow generation of 24176.0 Cr indicating excellent liquidity.,93.13
+POWERGRID,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 2.39).,60.0
+POWERGRID,pro,NPM > 25%,Outstanding net profitability margin of 34.0%.,72.69
+POWERGRID,pro,Dividend Yield > 2%,Attractive dividend yield of 3.1% providing consistent cash returns.,60.0
+POWERGRID,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 39.7%.,65.97
+POWERGRID,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 64.4x.",60.0
+RECLTD,pro,ROE > 20%,Company has shown robust return on equity (ROE of 20.4%) indicating highly profitable usage of shareholder funds.,68.01
+RECLTD,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 19.8%).,73.51
+RECLTD,pro,NPM > 25%,Outstanding net profitability margin of 29.8%.,72.69
+RECLTD,pro,Dividend Yield > 2%,Attractive dividend yield of 2.2% providing consistent cash returns.,60.0
+RECLTD,pro,ROCE > 20%,Solid return on capital employed (ROCE of 20.4%) demonstrating strong operational efficiency.,75.06
+RECLTD,con,FCF < 0,"Negative free cash flow generation of -59554.0 Cr, suggesting cash drain.",60.0
+RECLTD,con,D/E > 2.0,Highly leveraged balance sheet with debt-to-equity ratio of 6.42x.,90.0
+RECLTD,con,CFO/PAT < 0.5,Low earnings quality with operating cash flows significantly below net profit (CFO/PAT = -4.08).,60.0
+RELIANCE,pro,FCF > 100 Cr,Strong positive free cash flow generation of 45207.0 Cr indicating excellent liquidity.,93.13
+RELIANCE,pro,ICR > 5.0,"High interest coverage ratio of 7.7x, easily meeting debt obligations.",60.0
+RELIANCE,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 2.01).,60.0
+RELIANCE,pro,Dividend Yield > 2%,Attractive dividend yield of 4.2% providing consistent cash returns.,60.0
+RELIANCE,con,ROE < 10%,Sub-optimal return on equity (ROE of 10.0%) indicating low capital efficiency.,60.0
+RELIANCE,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 58.3x.",60.0
+SBILIFE,pro,Debt-Free,"Virtually debt-free balance sheet, reducing leverage risk.",60.0
+SBILIFE,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 24.2%.,74.3
+SBILIFE,pro,ICR > 5.0,"High interest coverage ratio of 240.3x, easily meeting debt obligations.",60.0
+SBILIFE,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 15.38).,60.0
+SBILIFE,con,FCF < 0,"Negative free cash flow generation of -2099.0 Cr, suggesting cash drain.",60.0
+SBILIFE,con,NPM < 8%,"Thin net margins of 1.4%, vulnerable to cost spikes.",60.0
+SBILIFE,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 70.0x.",60.0
+SBILIFE,con,P/B > 8.0,High price-to-book valuation multiple of 9.5x.,90.0
+SHREECEM,pro,FCF > 100 Cr,Strong positive free cash flow generation of 1929.0 Cr indicating excellent liquidity.,93.13
+SHREECEM,pro,ICR > 5.0,"High interest coverage ratio of 19.8x, easily meeting debt obligations.",60.0
+SHREECEM,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.93).,60.0
+SHREECEM,pro,Dividend Yield > 2%,Attractive dividend yield of 3.2% providing consistent cash returns.,60.0
+SHREECEM,con,ROE < 10%,Sub-optimal return on equity (ROE of 8.4%) indicating low capital efficiency.,60.0
+SHRIRAMFIN,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 18.6%.,74.3
+SHRIRAMFIN,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 23.5%).,73.51
+SHRIRAMFIN,con,FCF < 0,"Negative free cash flow generation of -31359.0 Cr, suggesting cash drain.",60.0
+SHRIRAMFIN,con,D/E > 2.0,Highly leveraged balance sheet with debt-to-equity ratio of 3.99x.,90.0
+SHRIRAMFIN,con,ICR < 1.5,Weak interest coverage ratio of 0.7x showing high debt servicing risk.,60.0
+SHRIRAMFIN,con,CFO/PAT < 0.5,Low earnings quality with operating cash flows significantly below net profit (CFO/PAT = -4.20).,60.0
+SHRIRAMFIN,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 68.5x.",60.0
+SIEMENS,pro,FCF > 100 Cr,Strong positive free cash flow generation of 1168.0 Cr indicating excellent liquidity.,93.13
+SIEMENS,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 19.9%).,73.51
+SIEMENS,pro,ICR > 5.0,"High interest coverage ratio of 67.2x, easily meeting debt obligations.",60.0
+SIEMENS,pro,Dividend Yield > 2%,Attractive dividend yield of 3.7% providing consistent cash returns.,60.0
+SIEMENS,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 53.3%.,65.97
+SIEMENS,con,P/B > 8.0,High price-to-book valuation multiple of 9.2x.,90.0
+SUNPHARMA,pro,FCF > 100 Cr,Strong positive free cash flow generation of 11372.0 Cr indicating excellent liquidity.,93.13
+SUNPHARMA,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 24.5%).,73.51
+SUNPHARMA,pro,ICR > 5.0,"High interest coverage ratio of 58.3x, easily meeting debt obligations.",60.0
+SUNPHARMA,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.26).,60.0
+SUNPHARMA,pro,Dividend Yield > 2%,Attractive dividend yield of 3.9% providing consistent cash returns.,60.0
+SUNPHARMA,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 43.2%.,65.97
+SUNPHARMA,con,DEFAULT,Potential vulnerability to macro-economic changes and sector-specific rotation.,70.0
+TATACONSUM,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 16.0%.,74.3
+TATACONSUM,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 21.6%).,73.51
+TATACONSUM,pro,ICR > 5.0,"High interest coverage ratio of 25.3x, easily meeting debt obligations.",60.0
+TATACONSUM,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.59).,60.0
+TATACONSUM,con,ROE < 10%,Sub-optimal return on equity (ROE of 7.6%) indicating low capital efficiency.,60.0
+TATACONSUM,con,NPM < 8%,"Thin net margins of 8.0%, vulnerable to cost spikes.",60.0
+TATACONSUM,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 54.8x.",60.0
+TATACONSUM,con,FCF CAGR 5yr < 0%,Decline in free cash flow generation over 5 years (CAGR of -37.0%).,60.0
+TATAMOTORS,pro,ROE > 20%,Company has shown robust return on equity (ROE of 37.5%) indicating highly profitable usage of shareholder funds.,68.01
+TATAMOTORS,pro,FCF > 100 Cr,Strong positive free cash flow generation of 45133.0 Cr indicating excellent liquidity.,93.13
+TATAMOTORS,pro,ICR > 5.0,"High interest coverage ratio of 6.5x, easily meeting debt obligations.",60.0
+TATAMOTORS,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 2.14).,60.0
+TATAMOTORS,pro,Dividend Yield > 2%,Attractive dividend yield of 3.6% providing consistent cash returns.,60.0
+TATAMOTORS,pro,ROCE > 20%,Solid return on capital employed (ROCE of 37.5%) demonstrating strong operational efficiency.,75.06
+TATAMOTORS,con,NPM < 8%,"Thin net margins of 7.3%, vulnerable to cost spikes.",60.0
+TATAMOTORS,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 67.1x.",60.0
+TATAPOWER,pro,FCF > 100 Cr,Strong positive free cash flow generation of 3569.0 Cr indicating excellent liquidity.,93.13
+TATAPOWER,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 15.5%.,74.3
+TATAPOWER,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 2.94).,60.0
+TATAPOWER,pro,P/E < 15.0,Trading at an attractive valuation multiple with a P/E of 14.5x.,60.0
+TATAPOWER,con,NPM < 8%,"Thin net margins of 7.0%, vulnerable to cost spikes.",60.0
+TATAPOWER,con,FCF CAGR 5yr < 0%,Decline in free cash flow generation over 5 years (CAGR of -3.7%).,60.0
+TATASTEEL,pro,FCF > 100 Cr,Strong positive free cash flow generation of 6048.0 Cr indicating excellent liquidity.,93.13
+TATASTEEL,con,ROE < 10%,Sub-optimal return on equity (ROE of -5.3%) indicating low capital efficiency.,60.0
+TATASTEEL,con,CFO/PAT < 0.5,Low earnings quality with operating cash flows significantly below net profit (CFO/PAT = -4.13).,60.0
+TATASTEEL,con,NPM < 8%,"Thin net margins of -2.1%, vulnerable to cost spikes.",60.0
+TATASTEEL,con,P/B > 8.0,High price-to-book valuation multiple of 9.2x.,90.0
+TCS,pro,ROE > 20%,Company has shown robust return on equity (ROE of 50.9%) indicating highly profitable usage of shareholder funds.,68.01
+TCS,pro,FCF > 100 Cr,Strong positive free cash flow generation of 50429.0 Cr indicating excellent liquidity.,93.13
+TCS,pro,ICR > 5.0,"High interest coverage ratio of 87.1x, easily meeting debt obligations.",60.0
+TCS,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 10.8%.,65.97
+TCS,pro,ROCE > 20%,Solid return on capital employed (ROCE of 50.9%) demonstrating strong operational efficiency.,75.06
+TCS,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 78.7x.",60.0
+TECHM,pro,FCF > 100 Cr,Strong positive free cash flow generation of 5058.0 Cr indicating excellent liquidity.,93.13
+TECHM,pro,ICR > 5.0,"High interest coverage ratio of 13.9x, easily meeting debt obligations.",60.0
+TECHM,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 2.66).,60.0
+TECHM,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 16.8%.,65.97
+TECHM,con,ROE < 10%,Sub-optimal return on equity (ROE of 9.0%) indicating low capital efficiency.,60.0
+TECHM,con,PAT CAGR 5yr < 0%,Decline in net profit over the last 5 years with a negative CAGR of -11.0%.,60.0
+TECHM,con,NPM < 8%,"Thin net margins of 4.6%, vulnerable to cost spikes.",60.0
+TECHM,con,P/E > 50.0,"Rich valuation multiple, trading at a very high P/E ratio of 57.4x.",60.0
+TECHM,con,Dividend Payout > 100%,"Dividend payout ratio of 150.0% exceeds net profit, which may be unsustainable.",60.0
+TITAN,pro,ROE > 20%,Company has shown robust return on equity (ROE of 37.2%) indicating highly profitable usage of shareholder funds.,68.01
+TITAN,pro,FCF > 100 Cr,Strong positive free cash flow generation of 1506.0 Cr indicating excellent liquidity.,93.13
+TITAN,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 20.9%.,74.3
+TITAN,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 20.3%).,73.51
+TITAN,pro,ICR > 5.0,"High interest coverage ratio of 9.4x, easily meeting debt obligations.",60.0
+TITAN,pro,Dividend Yield > 2%,Attractive dividend yield of 3.1% providing consistent cash returns.,60.0
+TITAN,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 27.6%.,65.97
+TITAN,pro,P/E < 15.0,Trading at an attractive valuation multiple with a P/E of 10.1x.,60.0
+TITAN,pro,ROCE > 20%,Solid return on capital employed (ROCE of 37.2%) demonstrating strong operational efficiency.,75.06
+TITAN,con,CFO/PAT < 0.5,Low earnings quality with operating cash flows significantly below net profit (CFO/PAT = 0.48).,60.0
+TITAN,con,NPM < 8%,"Thin net margins of 6.8%, vulnerable to cost spikes.",60.0
+TITAN,con,P/B > 8.0,High price-to-book valuation multiple of 10.5x.,90.0
+TORNTPHARM,pro,ROE > 20%,Company has shown robust return on equity (ROE of 24.2%) indicating highly profitable usage of shareholder funds.,68.01
+TORNTPHARM,pro,FCF > 100 Cr,Strong positive free cash flow generation of 3106.0 Cr indicating excellent liquidity.,93.13
+TORNTPHARM,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 30.6%).,73.51
+TORNTPHARM,pro,ICR > 5.0,"High interest coverage ratio of 9.9x, easily meeting debt obligations.",60.0
+TORNTPHARM,pro,CFO/PAT > 1.0,High quality of earnings with operating cash flow exceeding net profit (CFO/PAT = 1.97).,60.0
+TORNTPHARM,pro,FCF CAGR 5yr > 10%,Efficient multi-year FCF compound growth of 14.9%.,65.97
+TORNTPHARM,pro,ROCE > 20%,Solid return on capital employed (ROCE of 24.2%) demonstrating strong operational efficiency.,75.06
+TORNTPHARM,con,DEFAULT,Potential vulnerability to macro-economic changes and sector-specific rotation.,70.0
+TRENT,pro,ROE > 20%,Company has shown robust return on equity (ROE of 36.3%) indicating highly profitable usage of shareholder funds.,68.01
+TRENT,pro,FCF > 100 Cr,Strong positive free cash flow generation of 841.0 Cr indicating excellent liquidity.,93.13
+TRENT,pro,Sales CAGR 5yr > 15%,Excellent 5-year revenue growth trajectory with a CAGR of 36.3%.,74.3
+TRENT,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 73.1%).,73.51
+TRENT,pro,ICR > 5.0,"High interest coverage ratio of 8.0x, easily meeting debt obligations.",60.0
+TRENT,pro,Dividend Yield > 2%,Attractive dividend yield of 3.5% providing consistent cash returns.,60.0
+TRENT,pro,P/E < 15.0,Trading at an attractive valuation multiple with a P/E of 8.7x.,60.0
+TRENT,pro,ROCE > 20%,Solid return on capital employed (ROCE of 36.3%) demonstrating strong operational efficiency.,75.06
+TRENT,con,P/B > 8.0,High price-to-book valuation multiple of 11.8x.,90.0
+TVSMOTOR,pro,ROE > 20%,Company has shown robust return on equity (ROE of 26.2%) indicating highly profitable usage of shareholder funds.,68.01
+TVSMOTOR,pro,PAT CAGR 5yr > 15%,Strong net profit expansion over the last 5 years (CAGR of 19.7%).,73.51
+TVSMOTOR,pro,Dividend Yield > 2%,Attractive dividend yield of 3.1% providing consistent cash returns.,60.0
+TVSMOTOR,pro,ROCE > 20%,Solid return on capital employed (ROCE of 26.2%) demonstrating strong operational efficiency.,75.06
+TVSMOTOR,con,FCF < 0,"Negative free cash flow generation of -2254.0 Cr, suggesting cash drain.",60.0
+TVSMOTOR,con,D/E > 2.0,Highly leveraged balance sheet with debt-to-equity ratio of 3.83x.,90.0
+TVSMOTOR,con,CFO/PAT < 0.5,Low earnings quality with operating cash flows significantly below net profit (CFO/PAT = -0.70).,60.0
+TVSMOTOR,con,NPM < 8%,"Thin net margins of 4.5%, vulnerable to cost spikes.",60.0
