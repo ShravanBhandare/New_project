@@ -1,43 +1,167 @@
-from typing import Optional
+import sqlite3
+import logging
+import os
+import math
+from typing import Dict, Any, List
 
-def calculate_roe(net_profit: float, equity_capital: float, reserves: float) -> Optional[float]:
+# Setup logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
+DB_PATH = "data/nifty100.db"
+
+def calculate_npm(net_profit: float, sales: float) -> float | None:
     """
-    Return on Equity = net_profit / (equity_capital + reserves) * 100.
-    None if equity + reserves <= 0.
+    Calculate Net Profit Margin (NPM) percentage.
+    NPM = (Net Profit / Sales) * 100
+    Edge case: Return None if sales is zero or negative.
     """
-    total_equity = equity_capital + reserves
-    if total_equity <= 0:
+    if sales is None or pd_isna(sales) or sales <= 0:
         return None
-    return (net_profit / total_equity) * 100.0
-
-def calculate_roce(ebit: float, equity_capital: float, reserves: float, borrowings: float) -> Optional[float]:
-    """
-    Return on Capital Employed = EBIT / (equity_capital + reserves + borrowings) * 100.
-    EBIT = operating_profit - depreciation.
-    None if total capital employed <= 0.
-    """
-    capital_employed = equity_capital + reserves + borrowings
-    if capital_employed <= 0:
+    if net_profit is None or pd_isna(net_profit):
         return None
-    return (ebit / capital_employed) * 100.0
+    return (net_profit / sales) * 100
 
-def calculate_debt_to_equity(borrowings: float, equity_capital: float, reserves: float) -> Optional[float]:
+def calculate_opm(operating_profit: float, sales: float) -> float | None:
     """
-    Debt to Equity = borrowings / (equity_capital + reserves).
-    None if equity_capital + reserves <= 0.
+    Calculate Operating Profit Margin (OPM) percentage.
+    OPM = (Operating Profit / Sales) * 100
+    Edge case: Return None if sales is zero or negative.
     """
-    total_equity = equity_capital + reserves
-    if total_equity <= 0:
+    if sales is None or pd_isna(sales) or sales <= 0:
         return None
-    return borrowings / total_equity
+    if operating_profit is None or pd_isna(operating_profit):
+        return None
+    return (operating_profit / sales) * 100
 
-def calculate_interest_coverage(operating_profit: float, other_income: float, interest: float) -> Optional[float]:
+def calculate_roe(net_profit: float, equity_capital: float, reserves: float) -> float | None:
     """
-    Interest Coverage = (operating_profit + other_income) / interest.
-    If interest == 0, returns 999.0 (to display as 'Debt Free').
+    Calculate Return on Equity (ROE) percentage.
+    ROE = (Net Profit / (Equity Capital + Reserves)) * 100
+    Edge case: If equity + reserves <= 0 (negative equity), log as anomaly and return None.
     """
-    # If other_income is None, treat as 0
-    other_inc = other_income if other_income is not None else 0.0
-    if interest == 0:
-        return 999.0
-    return (operating_profit + other_inc) / interest
+    if net_profit is None or pd_isna(net_profit):
+        return None
+    eq = 0.0 if (equity_capital is None or pd_isna(equity_capital)) else equity_capital
+    res = 0.0 if (reserves is None or pd_isna(reserves)) else reserves
+    tot_equity = eq + res
+    if tot_equity <= 0:
+        logger.warning(f"Anomaly: Non-positive equity capital + reserves ({tot_equity}) for ROE calculation.")
+        return None
+    return (net_profit / tot_equity) * 100
+
+def calculate_roce(profit_before_tax: float, interest: float, equity_capital: float, reserves: float, borrowings: float) -> float | None:
+    """
+    Calculate Return on Capital Employed (ROCE) percentage.
+    ROCE = (EBIT / Capital Employed) * 100
+    EBIT = Profit Before Tax + Interest
+    Capital Employed = Equity Capital + Reserves + Borrowings
+    Edge case: Return None if Capital Employed <= 0.
+    """
+    pbt = 0.0 if (profit_before_tax is None or pd_isna(profit_before_tax)) else profit_before_tax
+    intr = 0.0 if (interest is None or pd_isna(interest)) else interest
+    ebit = pbt + intr
+    
+    eq = 0.0 if (equity_capital is None or pd_isna(equity_capital)) else equity_capital
+    res = 0.0 if (reserves is None or pd_isna(reserves)) else reserves
+    br = 0.0 if (borrowings is None or pd_isna(borrowings)) else borrowings
+    
+    cap_employed = eq + res + br
+    if cap_employed <= 0:
+        logger.warning(f"Anomaly: Non-positive capital employed ({cap_employed}) for ROCE calculation.")
+        return None
+        
+    return (ebit / cap_employed) * 100
+
+def pd_isna(val) -> bool:
+    """Helper to check if a value is None or NaN."""
+    if val is None:
+        return True
+    try:
+        return math.isnan(val)
+    except:
+        return False
+
+def populate_profitability_ratios(db_path: str = DB_PATH):
+    """
+    Loads P&L and Balance Sheet tables from SQLite, calculates NPM, OPM, ROE, ROCE,
+    cross-validates OPM with the source sheet, and writes to financial_ratios table.
+    """
+    if not os.path.exists(db_path):
+        logger.error(f"Database file not found at {db_path}.")
+        return
+
+    conn = sqlite3.connect(db_path)
+    conn.execute("PRAGMA foreign_keys = ON;")
+    cursor = conn.cursor()
+
+    # Ensure financial_ratios table has return_on_capital_employed_pct column
+    # If not, alter the table to add it
+    try:
+        cursor.execute("SELECT return_on_capital_employed_pct FROM financial_ratios LIMIT 1")
+    except sqlite3.OperationalError:
+        logger.info("Altering financial_ratios to add return_on_capital_employed_pct column...")
+        cursor.execute("ALTER TABLE financial_ratios ADD COLUMN return_on_capital_employed_pct NUMERIC")
+        conn.commit()
+
+    # Query all years and companies that have profitandloss AND balancesheet records
+    query = """
+        SELECT 
+            pl.company_id, pl.year, pl.sales, pl.operating_profit, pl.opm_percentage, 
+            pl.profit_before_tax, pl.interest, pl.net_profit,
+            bs.equity_capital, bs.reserves, bs.borrowings
+        FROM profitandloss pl
+        LEFT JOIN balancesheet bs ON pl.company_id = bs.company_id AND pl.year = bs.year
+    """
+    cursor.execute(query)
+    rows = cursor.fetchall()
+    
+    logger.info(f"Retrieved {len(rows)} matching statements to calculate ratios.")
+    
+    mismatches = 0
+    updates_count = 0
+
+    for row in rows:
+        comp_id, year, sales, op, source_opm, pbt, interest, np, eq, res, br = row
+        
+        npm = calculate_npm(np, sales)
+        opm = calculate_opm(op, sales)
+        roe = calculate_roe(np, eq, res)
+        roce = calculate_roce(pbt, interest, eq, res, br)
+        
+        # Cross-validate OPM vs source sheet
+        if opm is not None and source_opm is not None:
+            if abs(opm - source_opm) >= 1.0:
+                logger.warning(
+                    f"OPM Mismatch for {comp_id} ({year}): calculated={opm:.2f}%, source={source_opm:.2f}%"
+                )
+                mismatches += 1
+
+        # Upsert into financial_ratios table
+        cursor.execute("SELECT id FROM financial_ratios WHERE company_id = ? AND year = ?", (comp_id, year))
+        ratio_row = cursor.fetchone()
+        
+        if ratio_row:
+            cursor.execute("""
+                UPDATE financial_ratios
+                SET net_profit_margin_pct = ?,
+                    operating_profit_margin_pct = ?,
+                    return_on_equity_pct = ?,
+                    return_on_capital_employed_pct = ?
+                WHERE company_id = ? AND year = ?
+            """, (npm, opm, roe, roce, comp_id, year))
+        else:
+            cursor.execute("""
+                INSERT INTO financial_ratios (company_id, year, net_profit_margin_pct, operating_profit_margin_pct, return_on_equity_pct, return_on_capital_employed_pct)
+                VALUES (?, ?, ?, ?, ?, ?)
+            """, (comp_id, year, npm, opm, roe, roce))
+
+        updates_count += 1
+        
+    conn.commit()
+    conn.close()
+    
+    logger.info(f"Populated ratios for {updates_count} records. Total OPM mismatches: {mismatches}")
+
+if __name__ == "__main__":
+    populate_profitability_ratios()

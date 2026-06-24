@@ -34,8 +34,9 @@ def init_db(conn: sqlite3.Connection):
     logger.info("Schema initialized successfully.")
 
 def write_audit_log(audit_records: list):
-    """Appends audit details to load_audit.csv."""
-    audit_file = "load_audit.csv"
+    """Appends audit details to output/load_audit.csv."""
+    os.makedirs("output", exist_ok=True)
+    audit_file = os.path.join("output", "load_audit.csv")
     df = pd.DataFrame(audit_records)
     if os.path.exists(audit_file):
         df.to_csv(audit_file, mode='a', header=False, index=False)
@@ -44,8 +45,9 @@ def write_audit_log(audit_records: list):
     logger.info(f"Audit log updated at {audit_file}.")
 
 def write_failures_log(failures: list):
-    """Writes all validation failures to validation_failures.csv."""
-    failures_file = "validation_failures.csv"
+    """Writes all validation failures to output/validation_failures.csv."""
+    os.makedirs("output", exist_ok=True)
+    failures_file = os.path.join("output", "validation_failures.csv")
     df = pd.DataFrame(failures)
     df.to_csv(failures_file, index=False)
     logger.info(f"Validation failures written to {failures_file}.")

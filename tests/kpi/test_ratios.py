@@ -1,29 +1,45 @@
 import pytest
-from src.analytics.ratios import calculate_roe, calculate_roce, calculate_debt_to_equity, calculate_interest_coverage
+from src.analytics.ratios import calculate_npm, calculate_opm, calculate_roe, calculate_roce
 
-def test_roe_positive():
-    # net_profit = 100, equity_capital = 100, reserves = 400
-    # ROE = 100 / (100 + 400) * 100 = 20.0%
-    assert calculate_roe(100.0, 100.0, 400.0) == 20.0
+def test_calculate_npm():
+    # Standard case
+    assert calculate_npm(15.0, 100.0) == 15.0
+    # Zero sales case
+    assert calculate_npm(15.0, 0.0) is None
+    # Negative sales case
+    assert calculate_npm(15.0, -10.0) is None
+    # None sales case
+    assert calculate_npm(15.0, None) is None
+    # None net profit case
+    assert calculate_npm(None, 100.0) is None
 
-def test_roe_neg_equity():
-    # reserves + equity_capital <= 0 -> returns None
-    assert calculate_roe(100.0, 100.0, -150.0) is None
+def test_calculate_opm():
+    # Standard case
+    assert calculate_opm(25.0, 100.0) == 25.0
+    # Zero sales case
+    assert calculate_opm(25.0, 0.0) is None
+    # Negative sales case
+    assert calculate_opm(25.0, -5.0) is None
+    # None sales case
+    assert calculate_opm(25.0, None) is None
 
-def test_de_debtfree():
-    # borrowings = 0 -> D/E = 0.0
-    assert calculate_debt_to_equity(0.0, 100.0, 400.0) == 0.0
+def test_calculate_roe():
+    # Standard case: Net profit = 15, Equity = 50, Reserves = 50 -> ROE = (15 / 100) * 100 = 15%
+    assert calculate_roe(15.0, 50.0, 50.0) == 15.0
+    # Zero equity case
+    assert calculate_roe(15.0, 0.0, 0.0) is None
+    # Negative equity case
+    assert calculate_roe(15.0, 10.0, -20.0) is None
+    # None equity case (treated as 0.0, so if reserves is 100.0 it works)
+    assert calculate_roe(15.0, None, 100.0) == 15.0
+    # None profit case
+    assert calculate_roe(None, 50.0, 50.0) is None
 
-def test_de_normal():
-    # borrowings = 250, equity = 100, reserves = 400
-    # D/E = 250 / 500 = 0.5
-    assert calculate_debt_to_equity(250.0, 100.0, 400.0) == 0.5
-
-def test_icr_debtfree():
-    # interest = 0 -> returns 999.0 (to represent 'Debt Free' or flag)
-    assert calculate_interest_coverage(100.0, 10.0, 0.0) == 999.0
-
-def test_icr_normal():
-    # op_profit = 100, other_income = 20, interest = 30
-    # ICR = (100 + 20) / 30 = 4.0
-    assert calculate_interest_coverage(100.0, 20.0, 30.0) == 4.0
+def test_calculate_roce():
+    # Standard case: PBT = 20, Interest = 5, Equity = 50, Reserves = 30, Borrowings = 20
+    # EBIT = 25, Capital Employed = 100 -> ROCE = (25 / 100) * 100 = 25%
+    assert calculate_roce(20.0, 5.0, 50.0, 30.0, 20.0) == 25.0
+    # Zero capital employed case
+    assert calculate_roce(20.0, 5.0, 0.0, 0.0, 0.0) is None
+    # Negative capital employed case
+    assert calculate_roce(20.0, 5.0, 10.0, -30.0, 10.0) is None
