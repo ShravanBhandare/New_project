@@ -1,4 +1,4 @@
-.PHONY: load ratios cagr test clean
+.PHONY: load ratios cagr cashflow test clean
 
 load:
 	.\.venv\Scripts\python.exe -m src.etl.loader
@@ -8,6 +8,9 @@ ratios:
 
 cagr:
 	.\.venv\Scripts\python.exe -m src.analytics.cagr
+
+cashflow:
+	.\.venv\Scripts\python.exe -m src.analytics.cashflow_kpis
 
 test:
 	.\.venv\Scripts\pytest --html=reports/pytest_report.html --self-contained-html
