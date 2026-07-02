@@ -1,5 +1,5 @@
-import pytest
 from src.analytics.ratios import calculate_de, calculate_icr, calculate_asset_turnover
+from src.analytics.master_ratio_engine import score_de, score_icr
 
 def test_calculate_de():
     financials = {"HDFCBANK", "ICICIBANK", "SBIN"}
@@ -33,3 +33,21 @@ def test_calculate_asset_turnover():
     assert calculate_asset_turnover(200.0, -50.0) is None
     # None assets case
     assert calculate_asset_turnover(200.0, None) is None
+
+def test_score_de():
+    assert score_de(0.0) == 100.0
+    assert score_de(0.5) == 85.0
+    assert score_de(1.0) == 70.0
+    assert score_de(2.0) == 50.0
+    assert score_de(5.0) == 0.0
+    assert score_de(6.0) == 0.0
+    assert score_de(None) == 0.0
+
+def test_score_icr():
+    assert score_icr(10.0) == 100.0
+    assert score_icr(5.0) == 75.0
+    assert score_icr(3.0) == 50.0
+    assert score_icr(1.5) == 0.0
+    assert score_icr(1.0) == 0.0
+    assert score_icr(None) == 0.0
+
