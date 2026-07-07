@@ -83,5 +83,8 @@ presets:
       - metric: free_cash_flow_cr
         operator: ">"
         value: 0.0
+      - metric: de_declining
+        operator: "=="
+        value: True
     ranking_metric: sales_cagr_3yr
     sort_order: desc

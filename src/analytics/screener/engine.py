@@ -37,6 +37,18 @@ def get_screener_data(active_year: str = '2024-03') -> pd.DataFrame:
         conn.close()
         return pd.DataFrame()
         
+    # Get previous year D/E to compute de_declining
+    try:
+        parts = active_year.split('-')
+        prev_year = f"{int(parts[0]) - 1}-{parts[1]}"
+    except:
+        prev_year = None
+
+    if prev_year:
+        df_prev_de = pd.read_sql("SELECT company_id, debt_to_equity as prev_debt_to_equity FROM financial_ratios WHERE year = ?", conn, params=(prev_year,))
+    else:
+        df_prev_de = pd.DataFrame(columns=['company_id', 'prev_debt_to_equity'])
+
     # 4. Fetch market cap and valuation multiples
     # Parse integer year from active_year string (e.g. '2024-03' -> 2024)
     try:
@@ -56,6 +68,7 @@ def get_screener_data(active_year: str = '2024-03') -> pd.DataFrame:
     df = df.merge(df_sec, on='company_id', how='left')
     df = df.merge(df_mc, on='company_id', how='left')
     df = df.merge(df_pl, on='company_id', how='left', suffixes=('', '_pl'))
+    df = df.merge(df_prev_de, on='company_id', how='left')
     
     # Fill sales and net_profit if missing in ratios but present in P&L
     if 'sales' not in df.columns:
@@ -73,7 +86,22 @@ def get_screener_data(active_year: str = '2024-03') -> pd.DataFrame:
         
     df['fcf_yield'] = df.apply(calc_fcf_yield, axis=1)
     
+    # Calculate de_declining
+    def check_de_declining(row):
+        de = row.get('debt_to_equity')
+        prev_de = row.get('prev_debt_to_equity')
+        if pd.isna(de) or pd.isna(prev_de):
+            return False
+        return de < prev_de
+        
+    df['de_declining'] = df.apply(check_de_declining, axis=1)
+    
+    # Round debt_to_equity to 2 decimal places to enable "D/E == 0" for virtually debt-free companies
+    if 'debt_to_equity' in df.columns:
+        df['debt_to_equity'] = df['debt_to_equity'].round(2)
+        
     return df
+
 
 def apply_preset_filters(df: pd.DataFrame, preset_name: str, config: dict) -> pd.DataFrame:
     """
@@ -99,7 +127,8 @@ def apply_preset_filters(df: pd.DataFrame, preset_name: str, config: dict) -> pd
         'dividend_payout_ratio_pct': 'dividend_payout_ratio_pct',
         'pat_cagr_5yr': 'pat_cagr_5yr',
         'sales': 'sales',
-        'composite_score': 'composite_quality_score'
+        'composite_score': 'composite_quality_score',
+        'de_declining': 'de_declining'
     }
     
     for rule in preset['filters']:
@@ -182,7 +211,8 @@ def run_screener_and_export(active_year: str = '2024-03'):
             display_cols = [
                 'company_id', 'company_name', 'sector', 'return_on_equity_pct',
                 'debt_to_equity', 'free_cash_flow_cr', 'pe_ratio', 'dividend_yield_pct',
-                'sales_cagr_5yr', 'pat_cagr_5yr', 'composite_quality_score', 'fcf_yield'
+                'sales_cagr_5yr', 'pat_cagr_5yr', 'composite_quality_score', 'fcf_yield',
+                'sales_cagr_3yr', 'de_declining', 'sales'
             ]
             
             # Ensure columns exist
@@ -197,6 +227,7 @@ def run_screener_and_export(active_year: str = '2024-03'):
             logger.info(f"Preset sheet '{sheet_name}' populated with {len(output_df)} matches.")
             
     logger.info(f"Screener presets exported successfully to {output_path}.")
+
 
 if __name__ == "__main__":
     run_screener_and_export()
