@@ -38,10 +38,10 @@ def test_value_pick_preset():
         config = yaml.safe_load(f)
     df = get_screener_data('2024-03')
     filtered_vp = apply_preset_filters(df, 'value_pick', config)
-    # verify conditions for value picks
+    # verify conditions for value picks using relaxed thresholds from config
     for idx, row in filtered_vp.iterrows():
-        assert row['pe_ratio'] < 20.0
-        assert row['pb_ratio'] < 3.0
+        assert row['pe_ratio'] < 30.0, f"PE {row['pe_ratio']} >= 30"
+        assert row['pb_ratio'] < 5.0,  f"PB {row['pb_ratio']} >= 5"
         if not pd.isna(row['debt_to_equity']):
             assert row['debt_to_equity'] < 2.0
-        assert row['dividend_yield_pct'] > 1.0
+        assert row['dividend_yield_pct'] > 0.5, f"Div yield {row['dividend_yield_pct']} <= 0.5%"

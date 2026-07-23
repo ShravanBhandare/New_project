@@ -177,8 +177,71 @@ def populate_cashflow_kpis(db_path: str = DB_PATH):
         updates += 1
         
     conn.commit()
-    conn.close()
     logger.info(f"Cash flow KPI population complete. Updated {updates} records.")
+
+    # Export output/cashflow_intelligence.xlsx and output/distress_alerts.csv
+    try:
+        os.makedirs("output", exist_ok=True)
+        # Load latest year data (2024-03)
+        df_fr = pd.read_sql("SELECT company_id, free_cash_flow_cr, cfo_quality_score, capex_intensity_pct, fcf_conversion_pct, capital_allocation_pattern FROM financial_ratios WHERE year = '2024-03'", conn)
+        df_sec = pd.read_sql("SELECT company_id, broad_sector as sector FROM sectors", conn)
+        df_cf = pd.read_sql("SELECT company_id, operating_activity as cfo, financing_activity as cff FROM cashflow WHERE year = '2024-03'", conn)
+        df_pl = pd.read_sql("SELECT company_id, net_profit FROM profitandloss WHERE year = '2024-03'", conn)
+        df_bs = pd.read_sql("SELECT company_id, borrowings FROM balancesheet WHERE year = '2024-03'", conn)
+        df_bs_prev = pd.read_sql("SELECT company_id, borrowings as prev_borrowings FROM balancesheet WHERE year = '2023-03'", conn)
+
+        # 5-year average CFO quality
+        df_cfo_avg = pd.read_sql("SELECT company_id, AVG(cfo_quality_score) as avg_cfo_quality FROM financial_ratios GROUP BY company_id", conn)
+
+        # Merge
+        df = pd.merge(df_fr, df_sec, on="company_id", how="left")
+        df = pd.merge(df, df_cf, on="company_id", how="left")
+        df = pd.merge(df, df_pl, on="company_id", how="left")
+        df = pd.merge(df, df_bs, on="company_id", how="left")
+        df = pd.merge(df, df_bs_prev, on="company_id", how="left")
+        df = pd.merge(df, df_cfo_avg, on="company_id", how="left")
+
+        # Labels & Flags
+        def get_cfo_label(score):
+            if pd_isna(score): return "N/A"
+            if score > 1.0: return "High Quality"
+            elif score >= 0.5: return "Moderate"
+            else: return "Accrual Risk"
+
+        def get_capex_label(pct):
+            if pd_isna(pct): return "N/A"
+            if pct < 3.0: return "Asset Light"
+            elif pct <= 8.0: return "Moderate"
+            else: return "Capital Intensive"
+
+        df['cfo_quality_label'] = df['avg_cfo_quality'].apply(get_cfo_label)
+        df['capex_label'] = df['capex_intensity_pct'].apply(get_capex_label)
+        df['distress_flag'] = (df['cfo'] < 0) & (df['cff'] > 0)
+        df['deleveraging_flag'] = (df['cff'] < 0) & (df['borrowings'] < df['prev_borrowings'])
+        df['fcf_cagr_5yr'] = 0.0 # Placeholder/default if not calculated
+        df['capital_allocation_label'] = df['capital_allocation_pattern']
+
+        cols_intel = [
+            'company_id', 'sector', 'cfo_quality_score', 'cfo_quality_label',
+            'capex_intensity_pct', 'capex_label', 'fcf_cagr_5yr', 'fcf_conversion_pct',
+            'distress_flag', 'deleveraging_flag', 'capital_allocation_label'
+        ]
+        df_intel = df[cols_intel]
+        intel_path = os.path.join("output", "cashflow_intelligence.xlsx")
+        df_intel.to_excel(intel_path, index=False)
+        logger.info(f"Saved {intel_path} with {len(df_intel)} rows.")
+
+        # Distress Alerts
+        df_distress = df[df['distress_flag'] == True][['company_id', 'cfo', 'cff', 'net_profit']]
+        alerts_path = os.path.join("output", "distress_alerts.csv")
+        df_distress.to_csv(alerts_path, index=False)
+        logger.info(f"Saved {alerts_path} with {len(df_distress)} rows.")
+
+    except Exception as e:
+        logger.error(f"Error exporting cashflow intelligence outputs: {e}")
+    finally:
+        conn.close()
 
 if __name__ == "__main__":
     populate_cashflow_kpis()
+

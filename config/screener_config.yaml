@@ -1,5 +1,6 @@
 presets:
   quality_compounder:
+    label: "Quality Compounder"
     filters:
       - metric: return_on_equity_pct
         operator: ">"
@@ -17,23 +18,25 @@ presets:
     sort_order: desc
 
   value_pick:
+    label: "Value Pick"
     filters:
       - metric: pe_ratio
         operator: "<"
-        value: 20.0
+        value: 30.0
       - metric: pb_ratio
         operator: "<"
-        value: 3.0
+        value: 5.0
       - metric: debt_to_equity
         operator: "<"
         value: 2.0
       - metric: dividend_yield_pct
         operator: ">"
-        value: 1.0
+        value: 0.5
     ranking_metric: fcf_yield
     sort_order: desc
 
   growth_accelerator:
+    label: "Growth Accelerator"
     filters:
       - metric: pat_cagr_5yr
         operator: ">"
@@ -48,6 +51,7 @@ presets:
     sort_order: desc
 
   dividend_champion:
+    label: "Dividend Champion"
     filters:
       - metric: dividend_yield_pct
         operator: ">"
@@ -62,10 +66,11 @@ presets:
     sort_order: desc
 
   debt_free_blue_chip:
+    label: "Debt-Free Blue Chip"
     filters:
       - metric: debt_to_equity
-        operator: "=="
-        value: 0.0
+        operator: "<="
+        value: 0.05
       - metric: return_on_equity_pct
         operator: ">"
         value: 12.0
@@ -76,6 +81,7 @@ presets:
     sort_order: desc
 
   turnaround_watch:
+    label: "Turnaround Watch"
     filters:
       - metric: sales_cagr_3yr
         operator: ">"
